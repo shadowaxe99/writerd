@@ -1,0 +1,2267 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+    <head>
+        <title>Handwritten Recipe SVG | Ikonart Stencil</title>
+        <link rel="dns-prefetch preconnect" href="https://cdn11.bigcommerce.com/s-8631rjfpbo" crossorigin><link rel="dns-prefetch preconnect" href="https://fonts.googleapis.com/" crossorigin><link rel="dns-prefetch preconnect" href="https://fonts.gstatic.com/" crossorigin>
+        <meta property="og:url" content="https://ikonartstencil.com/handwritten-recipes/" /><meta property="og:site_name" content="Ikonart Stencil" /><meta name="keywords" content="ikonart, custom stencil, free svg, free pdf, free artwork, stencil making kit, craft kit, screen printing kit, handwritten recipe svg, dumpling recipe svg, mugcake recipe svg"><meta name="description" content="Download this free svg file to make your own creations using your Ikonart Custom Stencil Kit."><link rel='canonical' href='https://ikonartstencil.com/handwritten-recipes/' /><meta name='platform' content='bigcommerce.stencil' /><meta property="og:type" content="product" />
+<meta property="og:title" content="Handwritten Recipes" />
+<meta property="og:description" content="Download this free svg file to make your own creations using your Ikonart Custom Stencil Kit." />
+<meta property="og:image" content="https://cdn11.bigcommerce.com/s-8631rjfpbo/products/269/images/1581/Handwritte_Recipes__59521.1692898535.386.513.jpg?c=2" />
+<meta property="fb:admins" content="fgiese@ikonics.com" />
+<meta property="pinterest:richpins" content="disabled" />
+        
+         
+
+        <link href="https://cdn11.bigcommerce.com/s-8631rjfpbo/product_images/IART_BC_Favicon_Unleash.png?t=1591304905" rel="shortcut icon">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <meta name="ft-name" content="Covent Garden">
+        <meta name="ft-version" content="2.4.1">
+        <meta name="ft-edition" content="Contemporary">
+
+        <script>
+            // Change document class from no-js to js so we can detect this in css
+            document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+        </script>
+
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap" rel="stylesheet">
+        <link data-stencil-stylesheet href="https://cdn11.bigcommerce.com/s-8631rjfpbo/stencil/bf12df70-bd2b-013b-0534-0e9043b438c7/e/bcf76350-2e22-013c-2f0f-7674eda2e229/css/theme-edefa6f0-33b4-013c-3615-3a5d953fcba1.css" rel="stylesheet">
+
+
+        <!-- Start Tracking Code for analytics_facebook -->
+
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('set', 'autoConfig', 'false', '2850251771909771');
+fbq('dataProcessingOptions', ['LDU'], 0, 0);
+fbq('init', '2850251771909771');
+fbq('set', 'agent', 'plbigcommerce1.2', '2850251771909771');
+
+function trackEvents() {
+    var pathName = window.location.pathname;
+
+    fbq('track', 'PageView', {}, {"eventID":"store-2-prd-us-central1-166600106330"});
+
+    // Search events start -- only fire if the shopper lands on the /search.php page
+    if (pathName.indexOf('/search.php') === 0 && getUrlParameter('search_query')) {
+        fbq('track', 'Search', {
+            content_type: 'product_group',
+            content_ids: [],
+            search_string: getUrlParameter('search_query')
+        });
+    }
+    // Search events end
+
+    // Wishlist events start -- only fire if the shopper attempts to add an item to their wishlist
+    if (pathName.indexOf('/wishlist.php') === 0 && getUrlParameter('added_product_id')) {
+        fbq('track', 'AddToWishlist', {
+            content_type: 'product_group',
+            content_ids: []
+        });
+    }
+    // Wishlist events end
+
+    // Lead events start -- only fire if the shopper subscribes to newsletter
+    if (pathName.indexOf('/subscribe.php') === 0 && getUrlParameter('result') === 'success') {
+        fbq('track', 'Lead', {});
+    }
+    // Lead events end
+
+    // Registration events start -- only fire if the shopper registers an account
+    if (pathName.indexOf('/login.php') === 0 && getUrlParameter('action') === 'account_created') {
+        fbq('track', 'CompleteRegistration', {}, "");
+    }
+    // Registration events end
+
+    // Checkout events start -- only fire if the shopper lands on a /checkout* page
+    if (pathName === '/checkout.php' || /^\/(embedded-)?checkout$/.test(pathName)) {
+        
+
+        if (getUrlParameter('action') === 'process_payment') {
+            fbq('track', 'AddPaymentInfo');
+        } else {
+            fbq('track', 'InitiateCheckout');
+        }
+    }
+    // Checkout events end
+
+    function getUrlParameter(name) {
+        var cleanName = name.replace(/[\[]/, '\[').replace(/[\]]/, '\]');
+        var regex = new RegExp('[\?&]' + cleanName + '=([^&#]*)');
+        var results = regex.exec(window.location.search);
+        return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+    }
+}
+
+if (window.addEventListener) {
+    window.addEventListener("load", trackEvents, false)
+}
+</script>
+<noscript><img height="1" width="1" style="display:none" alt="null" src="https://www.facebook.com/tr?id=2850251771909771&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-166600106330"/></noscript>
+
+<!-- End Tracking Code for analytics_facebook -->
+
+<!-- Start Tracking Code for analytics_googleanalytics -->
+
+<script>
+    !function(){var analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.loadPlatform=function(t,e,a,o){window[o||"analytics"]=analytics;window._analytics_js_global_name=o;analytics.platformSettings=e;analytics.platformPlan=a;var r=document.createElement("script");r.type="text/javascript";r.defer=!0;r.src="https://cdn11.bigcommerce.com/shared/js/storefront/analytics-c7af4d4e323cc1137c45f692e81cae05fd2a3986.js";var i=document.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)};analytics.SNIPPET_VERSION="4.0.0_platform";
+        analytics.loadPlatform("", { "Google Analytics": {"enhancedLinkAttribution":true,"enhancedEcommerce":true,"includeSearch":true,"sendUserId":true,"trackingId":"UA-163257021-1","dimensions":[],"metrics":[]} }, {}, "analytics");
+        analytics.identify();
+        analytics.page();
+        
+        analytics.ready(function () {
+            ga('require', 'ec');
+            ga('require', 'linker');
+            ga('linker:autoLink', ["ikonartstencil.com"]);
+        });
+    }}();
+</script>
+
+<!-- End Tracking Code for analytics_googleanalytics -->
+
+<!-- Start Tracking Code for analytics_googleanalytics4 -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-67B6NGD09K"></script>
+<script src="/app/assets/js/google_analytics4.js"></script>
+<script>
+  function initGA4() {
+    if (typeof subscribeOnBodlEvents === 'function') {
+      subscribeOnBodlEvents('G-67B6NGD09K', 'dMjk3Nj');
+
+      return true;
+    }
+
+    return false;
+  }
+
+  var eventName = document.readyState === 'complete' ? 'consentScriptsLoaded' : 'DOMContentLoaded';
+  window.addEventListener(eventName, initGA4, false);
+</script>
+
+<!-- End Tracking Code for analytics_googleanalytics4 -->
+
+<!-- Start Tracking Code for analytics_siteverification -->
+
+<meta name="facebook-domain-verification" content="yyj8x74y7ded81eez8w7s72efdw9fe" />
+
+<meta name="google-site-verification" content="CwO-bSUKnWjh-34_-kGrnsBCbvawqgA5e9woUyk0w4A" />
+
+<meta name="google-site-verification" content="CwO-bSUKnWjh-34_-kGrnsBCbvawqgA5e9woUyk0w4A" />
+
+<meta name="google-site-verification" content="APtAsKEhjX7LBdBS7Ei-hVPR25jitIYgBYxUATSfW1M" />
+
+<meta name="p:domain_verify" content="375eaae348bf817b2fda20b8ace8ecc5"/>
+
+<!-- Digital Position Google Ads Global site tag (gtag.js) - Google Ads: 655087527 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-655087527"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-655087527', {'allow_enhanced_conversions':true});
+</script>
+
+
+<!-- End Tracking Code for analytics_siteverification -->
+
+
+<script type="text/javascript" src="https://checkout-sdk.bigcommerce.com/v1/loader.js" defer></script>
+<script type="text/javascript">
+(function () {
+    var xmlHttp = new XMLHttpRequest();
+
+    xmlHttp.open('POST', 'https://bes.gcp.data.bigcommerce.com/nobot');
+    xmlHttp.setRequestHeader('Content-Type', 'application/json');
+    xmlHttp.send('{"store_id":"1000282879","timezone_offset":"-5","timestamp":"2023-09-17T16:10:38.40309600Z","visit_id":"fe2288aa-fe4d-4c89-9fa0-521260fdc00b","channel_id":1}');
+})();
+</script>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script type="text/javascript">
+var BCData = {"csrf_token":"d770e1c7fbd30c4208173610275098c8c175b848fcddf93bd00af8188a3527ec","product_attributes":{"sku":null,"upc":null,"mpn":null,"gtin":null,"weight":null,"base":true,"image":null,"price":{"price_range":[],"retail_price_range":[]},"stock":null,"instock":true,"stock_message":null,"purchasable":false,"purchasing_message":""}};
+</script>
+<script src='https://searchserverapi.com/widgets/bigcommerce/init.js?api_key=6g4k2y8H8J' async></script><!-- Pinterest Tag -->
+<script>
+!function(e){if(!window.pintrk){window.pintrk = function () {
+window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var
+  n=window.pintrk;n.queue=[],n.version="3.0";var
+  t=document.createElement("script");t.async=!0,t.src=e;var
+  r=document.getElementsByTagName("script")[0];
+  r.parentNode.insertBefore(t,r)}}("https://s.pinimg.com/ct/core.js");
+pintrk('load', '2613769219209', {em: '<user_email_address>'});
+pintrk('page');
+</script>
+
+<!-- end Pinterest Tag --><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-67B6NGD09K"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-67B6NGD09K');
+</script><script>
+  !(function () {
+    const tagUrl = 'https://bssvh.ikonartstencil.com';
+    !(function (u) {
+      window.edgetag =
+        window.edgetag ||
+        function () {
+          (edgetag.stubs = edgetag.stubs || []).push(arguments);
+        };
+      const t = document.createElement('script');
+      (t.type = 'text/javascript'), (t.src = u), (t.async = !0);
+      const e = document.getElementsByTagName('script')[0];
+      e.parentNode.insertBefore(t, e);
+    })(`${tagUrl}/load`);
+    edgetag('init', {
+      edgeURL: tagUrl,
+      disableConsentCheck: true,
+    });
+  })();
+</script>
+<script>
+  !(function () {
+    const getCookie = (cname) => {
+      const name = cname + '=';
+      const decodedCookie = decodeURIComponent(document.cookie);
+      const ca = decodedCookie.split(';');
+      for (let i = 0; i < ca.length; i++) {
+        let c = ca[i];
+        while (c.charAt(0) === ' ') {
+          c = c.substring(1);
+        }
+
+        if (c.indexOf(name) === 0) {
+          return c.substring(name.length, c.length);
+        }
+      }
+      return '';
+    };
+
+    !(function (f, b, e, v, n, t, s) {
+      if (f.fbq) return;
+      n = f.fbq = function () {
+        n.callMethod
+          ? n.callMethod.apply(n, arguments)
+          : n.queue.push(arguments);
+      };
+      if (!f._fbq) f._fbq = n;
+      n.push = n;
+      n.loaded = !0;
+      n.version = '2.0';
+      n.queue = [];
+      t = b.createElement(e);
+      t.async = !0;
+      t.src = v;
+      s = b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t, s);
+    })(
+      window,
+      document,
+      'script',
+      'https://connect.facebook.net/en_US/fbevents.js'
+    );
+
+    const tagId = getCookie('tag_user_id');
+    fbq('set', 'autoConfig', 'false', '2850251771909771');
+    fbq('dataProcessingOptions', ['LDU'], 0, 0);
+    fbq('init', '2850251771909771', { external_id: tagId });
+    fbq('set', 'agent', 'plbigcommerce1.2', '2850251771909771');
+  })();
+</script>
+
+<script>
+  !(function () {
+    const sendUser = (user) => {
+      if (!Object.keys(user).length) {
+        return;
+      }
+      edgetag('data', user);
+    };
+
+    const getUser = (form, selectors) => {
+      const user = {};
+      if (!selectors) {
+        return user;
+      }
+      Object.entries(selectors).forEach(([userKey, selector]) => {
+        if (!selector || selector.length === 0) {
+          return;
+        }
+        const selectorArray = Array.isArray(selector) ? selector : [selector];
+        for (const selector of selectorArray) {
+          if (!selector) {
+            continue;
+          }
+          const userValue = $(selector, form).val() || '';
+          if (userValue) {
+            user[userKey] = userValue;
+            break;
+          }
+        }
+      });
+      return user;
+    };
+
+    const generateUUID = () => {
+      let d = new Date().getTime();
+      let d2 =
+        (typeof performance !== 'undefined' &&
+          performance.now &&
+          performance.now() * 1000) ||
+        0;
+      return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(
+        /[xy]/g,
+        function (c) {
+          let r = Math.random() * 16;
+          if (d > 0) {
+            r = (d + r) % 16 | 0;
+            d = Math.floor(d / 16);
+          } else {
+            r = (d2 + r) % 16 | 0;
+            d2 = Math.floor(d2 / 16);
+          }
+          return (c === 'x' ? r : (r & 0x3) | 0x8).toString(16);
+        }
+      );
+    };
+
+    const sendEvent = ({
+      name,
+      payload = {},
+      fbPayload,
+      beacon = false,
+      eventId,
+    }) => {
+      if (!eventId) {
+        eventId = generateUUID();
+      }
+
+      let options = {};
+      if (beacon) {
+        options = { method: 'beacon' };
+      }
+      edgetag(
+        'tag',
+        name,
+        {
+          ...payload,
+          eventId,
+        },
+        {},
+        options
+      );
+
+      fbq('track', name, fbPayload ? fbPayload : payload, { eventID: eventId });
+    };
+
+    // Page View
+    sendEvent({
+      name: 'PageView',
+    });
+
+    window.addEventListener('load', () => {
+      const body = $('body');
+      // Discount popup
+      $(
+        'form.soundest-form-background-image-form[name="omnisend-form"] input[type="submit"]'
+      ).on('click', function () {
+        const form = $(this).parents(
+          'form.soundest-form-background-image-form[name="omnisend-form"]'
+        );
+        sendUser(
+          getUser(form, {
+            email: 'input[type="email"]',
+            firstName: 'input[name="omnisend-name"]',
+          })
+        );
+
+        sendEvent({
+          name: 'Lead',
+        });
+      });
+
+      // Footer newsletter
+      $('form[action="/subscribe.php"]').on('submit', function () {
+        sendUser(
+          getUser(this, {
+            email: 'input[type="email"]',
+            firstName: 'input[name="omnisend-name"]',
+          })
+        );
+
+        sendEvent({
+          name: 'Lead',
+        });
+      });
+
+      // Search
+      let timer;
+      body.on('keypress', 'input[name="search_query"]', function () {
+        if (timer) {
+          clearTimeout(timer);
+        }
+
+        timer = setTimeout(() => {
+          const search = $(this).val();
+          if (search) {
+            sendEvent({
+              name: 'Search',
+              payload: {
+                search,
+              },
+              fbPayload: {
+                search_string: search,
+              },
+            });
+          }
+        }, 1000);
+      });
+
+      if (window.location.pathname.startsWith('/search.php')) {
+        let searchParams = new URLSearchParams(window.location.search);
+        const search = searchParams.get('search_query');
+        if (search) {
+          sendEvent({
+            name: 'Search',
+            payload: {
+              search,
+            },
+            fbPayload: {
+              search_string: search,
+            },
+          });
+        }
+      }
+
+      // Contact us
+      $('form[data-contact-form]').on('submit', function () {
+        sendUser(
+          getUser(this, {
+            firstName: 'input[name="contact_fullname"]',
+            phone: 'input[name="contact_phone"]',
+            email: 'input[name="contact_email"]',
+          })
+        );
+
+        sendEvent({
+          name: 'Contact',
+        });
+      });
+
+      // Login
+      $('form.login-form').on('submit', function () {
+        sendUser(
+          getUser(this, {
+            email: 'input[type="email"]',
+          })
+        );
+      });
+
+      // Registration
+      $('form[data-create-account-form]').on('submit', function () {
+        sendUser(
+          getUser(this, {
+            email: 'input[data-field-type="EmailAddress"]',
+            firstName: 'input[data-field-type="FirstName"]',
+            lastName: 'input[data-field-type="LastName"]',
+            phone: 'input[data-field-type="Phone"]',
+          })
+        );
+
+        sendEvent({
+          name: 'CompleteRegistration',
+        });
+      });
+
+      // Product page view
+      const pageView = $('.productView');
+      if (pageView.length) {
+        const name = pageView.data('name');
+        if (name) {
+          const price = $('meta[itemprop="price"]').attr('content');
+          const currency = $('meta[itemprop="priceCurrency"]').attr('content');
+          const id = pageView.data('entity-id');
+          const category = pageView.data('product-category');
+
+          sendEvent({
+            name: 'ViewContent',
+            payload: {
+              name,
+              currency,
+              type: 'product',
+              category,
+              contents: [
+                {
+                  id,
+                  quantity: 1,
+                  item_price: parseFloat(price),
+                  title: name,
+                  category,
+                },
+              ],
+              ids: [id],
+              value: parseFloat(price),
+            },
+            fbPayload: {
+              content_name: name,
+              currency,
+              content_type: 'product',
+              content_category: category,
+              content_ids: [id],
+              value: parseFloat(price),
+            },
+          });
+        }
+      }
+
+      // View Content (main page on product hover)
+      $('a.button.quickview').on('click', function () {
+        const product = $(this).parents('article.card');
+        const name = product.data('name');
+        const price = product.data('product-price');
+        const currency = 'USD';
+        const id = product.data('entity-id');
+        const category = product.data('product-category');
+
+        sendEvent({
+          name: 'ViewContent',
+          payload: {
+            name,
+            currency,
+            ids: [id],
+            type: 'product',
+            category,
+            contents: [
+              {
+                id,
+                quantity: 1,
+                item_price: parseFloat(price),
+                title: name,
+                category,
+              },
+            ],
+            value: parseFloat(price),
+          },
+          fbPayload: {
+            content_name: name,
+            currency,
+            content_type: 'product',
+            content_category: category,
+            content_ids: [id],
+            value: parseFloat(price),
+          },
+        });
+      });
+
+      // Add to cart (product page)
+      body.on('submit', 'form[data-cart-item-add]', function () {
+        const product = $('.productView');
+        const name = $('h1.productView-title', product).html();
+        let price = $('meta[itemprop="price"]').attr('content');
+        if (!price) {
+          price = $('[data-product-price-without-tax]', product)
+            .text()
+            .replace(/[^\d.]/g, '');
+        }
+        let currency =
+          window.dest_currency_code ||
+          $('meta[itemprop="priceCurrency"]').attr('content');
+        if (!currency) {
+          currency = $('[data-product-price-without-tax]', product)
+            .text()
+            .replace(/[\d.$ ]/g, '');
+        }
+        const quantity = $('input[name="qty[]"]', this).val();
+        const totalPrice = parseFloat(price) * parseInt(quantity);
+        const id = $('input[name="product_id"]', this).val();
+        const category = product.data('product-category');
+
+        const obj = {
+          id,
+          quantity,
+          category,
+          item_price: price,
+          title: name,
+        };
+
+        sendEvent({
+          name: 'AddToCart',
+          payload: {
+            name,
+            currency,
+            value: totalPrice,
+            type: 'product',
+            contents: [obj],
+            ids: [obj.id],
+          },
+          fbPayload: {
+            content_name: name,
+            currency,
+            value: totalPrice,
+            content_type: 'product',
+            content_category: obj.category || '',
+            contents: [
+              {
+                content_ids: [obj.id],
+                num_items: obj.quantity,
+              },
+            ],
+            content_ids: [obj.id],
+          },
+        });
+      });
+
+      // Add to cart (main page on product hover)
+      $('a.button.card-figcaption-button:not(.quickview)').on(
+        'click',
+        function () {
+          const product = $(this).parents('article.card');
+          const name = product.data('name');
+          const price = product.data('product-price');
+          const currency = 'USD';
+          const id = product.data('entity-id');
+          const category = product.data('product-category');
+
+          const obj = {
+            id,
+            category,
+            quantity: 1,
+            item_price: price,
+            title: name,
+          };
+
+          sendEvent({
+            name: 'AddToCart',
+            payload: {
+              name,
+              currency,
+              value: parseFloat(price),
+              type: 'product',
+              contents: [obj],
+              ids: [obj.id],
+            },
+            fbPayload: {
+              content_name: name,
+              currency,
+              value: parseFloat(price),
+              content_type: 'product',
+              content_category: obj.category || '',
+              contents: [
+                {
+                  content_ids: [obj.id],
+                  num_items: obj.quantity,
+                },
+              ],
+              content_ids: [obj.id],
+            },
+          });
+        }
+      );
+
+      // Cart (Initiate checkout)
+      $('a[href="/checkout"]').on('click', function () {
+        sendEvent({
+          name: 'InitiateCheckout',
+          beacon: true,
+        });
+      });
+
+      // checkout page - customer step
+      body.on('submit', 'form#checkout-customer-guest', function () {
+        sendUser(
+          getUser(this, {
+            email: 'input[type="email"]',
+          })
+        );
+      });
+
+      // checkout page - shipping step
+      body.on('submit', '.checkout-form form', function () {
+        sendUser(
+          getUser(this, {
+            firstName: 'input[name="shippingAddress.firstName"]',
+            lastName: 'input[name="shippingAddress.lastName"]',
+            phone: 'input[name="shippingAddress.phone"]',
+          })
+        );
+
+        sendEvent({
+          name: 'AddPaymentInfo',
+        });
+      });
+
+      // Thank you page
+      if (window.location.pathname === '/checkout/order-confirmation') {
+        const orderId =
+          $(
+            '[data-test="order-confirmation-order-number-text"] strong'
+          ).text() || '';
+        const priceFull = $(
+          '.cart-priceItem--total .cart-priceItem-value'
+        ).text() || '0.0';
+        const price = priceFull.replace(/[^\d.]/g, '');
+        const currencySymbol = priceFull.replace(/[ 0-9.A-Z]/g, '');
+        let currency = 'USD';
+        switch (currencySymbol) {
+          case '€': {
+            currency = 'EUR';
+            break;
+          }
+        }
+
+        const contents = [];
+        const contentsFb = [];
+        let numItem = 0;
+        $('[data-test="cart-item"]').each(function () {
+          const product = this;
+          const price =
+            $('.product-price', product)
+              .text()
+              .replace(/[^\d.]/g, '') || '';
+          let name = $('.product-title', product).text();
+          const split = name.split(' x ');
+          let quantity = 1;
+          if (split && split.length > 1) {
+            quantity = parseInt(split[0]);
+            numItem += quantity;
+            name = split[1];
+          }
+
+          contents.push({
+            quantity,
+            item_price: price,
+            title: name,
+          });
+
+          contentsFb.push({
+            num_items: quantity,
+            value: parseFloat(price),
+            content_name: name,
+          });
+        });
+
+        sendEvent({
+          name: 'Purchase',
+          payload: {
+            contents,
+            currency,
+            value: parseFloat(price),
+            num_items: numItem,
+            type: 'product',
+          },
+          fbPayload: {
+            contents: contentsFb,
+            currency,
+            value: parseFloat(price),
+            num_items: numItem,
+            content_type: 'product',
+          },
+          eventId: orderId,
+          orderId
+        });
+      }
+    });
+  })();
+</script><script async defer src="https://tools.luckyorange.com/core/lo.js?site-id=8640afe4"></script>
+ <script src="https://microapps.bigcommerce.com/bodl-events/index.js"></script>
+ <script>
+   window.bodl = JSON.parse("{\"session\":{\"id\":\"a5c1c71d-d3a7-4c07-8591-e68d591e4d1f\",\"first_touch_timestamp\":\"2023-09-17T16:10:38\",\"first_touch_referral_url\":\"\",\"first_touch_request_url\":\"https://ikonartstencil.com/handwritten-recipes/\"},\"shopper\":{\"visitor_id\":\"\",\"customer_id\":null,\"email\":null,\"first_name\":null,\"last_name\":null},\"data_consent\":{\"functional\":true,\"analytics\":true,\"advertising\":true},\"events\":[{\"bodl_v1_product_page_viewed\":{\"event_id\":\"ad352b4f-6aec-4ac9-b2ff-212d1316e8d8\",\"channel_id\":1,\"currency\":null,\"product_value\":null,\"line_items\":[{\"product_id\":\"269\",\"sku\":null,\"variant_id\":null,\"product_name\":\"Handwritten Recipes\",\"gift_certificate_id\":null,\"gift_certificate_name\":null,\"gift_certificate_theme\":null,\"purchase_price\":null,\"sale_price\":null,\"base_price\":null,\"retail_price\":null,\"quantity\":null,\"discount\":null,\"index\":0,\"brand_name\":null,\"category_names\":[\"Free Artwork\"],\"currency\":null}]}}]}");
+ </script>
+
+        
+
+        
+        
+        
+        
+        
+        
+        
+        <!-- snippet location htmlhead -->
+    </head>
+    <body class="has-globalBanner">
+        <!-- snippet location header -->
+        <svg data-src="https://cdn11.bigcommerce.com/s-8631rjfpbo/stencil/bf12df70-bd2b-013b-0534-0e9043b438c7/e/bcf76350-2e22-013c-2f0f-7674eda2e229/img/icon-sprite.svg" class="icons-svg-sprite"></svg>
+
+
+        <!--<div class="banners" data-banner-location="top">
+    <div class="banner">
+        <p><strong>In observance of Independence Day, IKONICS offices will be closed Monday, July 3rd and Tuesday, July 4th.<br>
+All orders placed after 2pm CST on Friday, June 30th will be processed on Wednesday, July 5th. Have a safe holiday!</strong></p>
+    </div>
+</div>-->
+            
+<!--- add these symbols before and after div to hide banner/code on website -->
+
+<div data-content-region="above_header--globel"></div>
+<div data-content-region="above_header"></div>
+<header class="header  " role="banner">
+    <a href="#" class="mobileMenu-toggle" data-mobile-menu-toggle="menu">
+        <span class="mobileMenu-toggleIcon">Toggle menu</span>
+    </a>
+    <div class="header-top position--center ">
+        <nav class="navUser left">
+    <ul class="navUser-section" data-topbar data-options="sticky_on:large">
+        <li class="navUser-item currency-menu">
+    <a class="navUser-action has-dropdown" href="#" data-dropdown="currencySelection" aria-controls="currencySelection" aria-expanded="false"><img src="https://cdn11.bigcommerce.com/s-8631rjfpbo/lib/flags/us.gif" border="0" alt="" role="presentation" /> USD <i class="icon" aria-hidden="true"><svg><use xlink:href="#icon-chevron-down" /></svg></i></a>
+    <ul class="dropdown-menu" id="currencySelection" data-dropdown-content aria-hidden="true" tabindex="-1">
+        <li class="dropdown-menu-item">
+            <a href="https://ikonartstencil.com/handwritten-recipes/?setCurrencyId=1">
+                <strong><img src="https://cdn11.bigcommerce.com/s-8631rjfpbo/lib/flags/us.gif" border="0" alt="" role="presentation" /> US Dollar</strong>
+            </a>
+        </li>
+        <li class="dropdown-menu-item">
+            <a href="https://ikonartstencil.com/handwritten-recipes/?setCurrencyId=2">
+                <img src="https://cdn11.bigcommerce.com/s-8631rjfpbo/lib/flags/ca.gif" border="0" alt="" role="presentation" /> Canadian Dollar
+            </a>
+        </li>
+    </ul>
+</li>
+                <li class="navUser-item">
+                    <a class="navUser-action" href="tel:(800) 643-1037 ext.104">Need help? Call us on (800) 643-1037 ext.104</a>
+                </li>
+    </ul>
+</nav>
+<nav class="navUser right sticky">
+    <ul class="navUser-section navUser-section--alt">
+        <li class="navUser-item navUser-item--search">
+            <a class="navUser-action navUser-action--quickSearch" href="#" data-search="quickSearch" aria-controls="quickSearch" aria-expanded="false"><i class="icon" aria-hidden="true"><svg><use xlink:href="#icon-search" /></svg></i></a>
+            <div class="dropdown dropdown--quickSearch" id="quickSearch" aria-hidden="true" tabindex="-1" data-prevent-quick-search-close>
+                <div class="container">
+    <!-- snippet location forms_search -->
+    <form class="form" action="/search.php">
+        <fieldset class="form-fieldset">
+            <div class="form-field">
+                <label class="is-srOnly" for="search_query">Search</label>
+                <input class="form-input" data-search-quick name="search_query" id="search_query" data-error-message="Search field cannot be empty." placeholder="Search the store" autocomplete="off">
+            </div>
+        </fieldset>
+    </form>
+    <a class="modal-close" aria-label="Close" data-drop-down-close role="button">
+        <span aria-hidden="true">&#215;</span>
+    </a>
+</div>
+<div class="resultsContainer" id="qsResults">
+    <section class="quickSearchResults" data-bind="html: results"></section>
+</div>
+            </div>
+        </li>
+        <li class="navUser-item navUser-item--account">
+                    <a class="navUser-action" href="/login.php"><i class="icon" aria-hidden="true"><svg><use xlink:href="#icon-account" /></svg></i></a>
+        </li>
+        <li class="navUser-item navUser-item--cart">
+            <a
+                class="navUser-action"
+                data-cart-preview
+                data-dropdown="cart-preview-dropdown"
+                data-options="align:right"
+                href="/cart.php">
+                <span class="navUser-item-cartLabel"><i class="icon" aria-hidden="true"><svg><use xlink:href="#icon-cart" /></svg></i></span> <span class="countPill cart-quantity"></span>
+            </a>
+
+            <div class="dropdown-menu" id="cart-preview-dropdown" data-dropdown-content aria-hidden="true"></div>
+        </li>
+    </ul>
+</nav>
+
+        <div class="header-logo header-logo--center sticky hide-on-sticky">
+            <a href="https://ikonartstencil.com/" data-topbar data-options="sticky_on: large">
+        <span class="header-logo-text with-image">
+            <img class="header-logo-image svg-logo" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-8631rjfpbo/content/img/IKONART_LOGO.svg" alt="Ikonart Stencil" title="Ikonart Stencil" width="200" height="50">
+        </span>
+</a>
+        </div>
+
+    </div>
+
+    <div data-content-region="header_above_navigation"></div>
+        <div class="navPages-container sticky" id="menu" data-menu>
+            <nav class="navPages top-bar" data-topbar role="navigation" data-options="sticky_on: large;">
+    <div class="navPages-quickSearch">
+        <!-- snippet location forms_search -->
+<form class="form"  action="/search.php">
+    <fieldset class="form-fieldset">
+        <div class="form-field">
+            <label class="form-label is-srOnly" for="search_query_adv">Search Keyword:</label>
+            <div class="form-prefixPostfix wrap">
+                <input class="form-input" id="search_query_adv" name="search_query_adv" value="">
+                <input class="button button--primary form-prefixPostfix-button--postfix" type="submit" value="Search">
+            </div>
+        </div>
+    </fieldset>
+</form>
+    </div>
+    <ul class="navPages-list navPages-list-depth-max simple">
+                        <li class="navPages-item">
+                                <a class="navPages-action" href="https://ikonartstencil.com/home/">Home</a>
+                        </li>
+                        <li class="navPages-item">
+                                <a class="navPages-action navPages-action-depth-max has-subMenu is-root" href="https://ikonartstencil.com/shop/" data-collapsible="navPages-23">
+        Shop <i class="icon navPages-action-moreIcon" aria-hidden="true"><svg><use xlink:href="#icon-chevron-down" /></svg></i>
+    </a>
+    <div class="navPage-subMenu navPage-subMenu-horizontal" id="navPages-23" aria-hidden="true" tabindex="-1">
+    <ul class="navPage-subMenu-list">
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/shop-all/">Shop All</a>
+            </li>
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/kits-bundles/">Ikonart Kit &amp; Bundles</a>
+            </li>
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/stencil-films/">Stencil Films</a>
+            </li>
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/printer-films/">Printer Films</a>
+            </li>
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/mediums/">Mediums</a>
+            </li>
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/accessories/">Stencil Making Accessories</a>
+            </li>
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/custom-stencil-1/">Custom Stencils</a>
+            </li>
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/where-to-buy-1/">Where To Buy</a>
+            </li>
+    </ul>
+</div>
+                        </li>
+                        <li class="navPages-item">
+                                <a class="navPages-action navPages-action-depth-max has-subMenu is-root" href="https://ikonartstencil.com/start-here/" data-collapsible="navPages-68">
+        Start Here <i class="icon navPages-action-moreIcon" aria-hidden="true"><svg><use xlink:href="#icon-chevron-down" /></svg></i>
+    </a>
+    <div class="navPage-subMenu navPage-subMenu-horizontal" id="navPages-68" aria-hidden="true" tabindex="-1">
+    <ul class="navPage-subMenu-list">
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/what-to-buy-1/">What To Buy</a>
+            </li>
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/videos/">Demo Videos</a>
+            </li>
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/gallery-project-ideas/">Gallery &amp; Project Ideas</a>
+            </li>
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/ikonart-101-1/">Ikonart 101</a>
+            </li>
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/blog-1/">Blog</a>
+            </li>
+    </ul>
+</div>
+                        </li>
+                        <li class="navPages-item">
+                                <a class="navPages-action navPages-action-depth-max has-subMenu is-root" href="https://ikonartstencil.com/resources-1/" data-collapsible="navPages-42">
+        Resources <i class="icon navPages-action-moreIcon" aria-hidden="true"><svg><use xlink:href="#icon-chevron-down" /></svg></i>
+    </a>
+    <div class="navPage-subMenu navPage-subMenu-horizontal" id="navPages-42" aria-hidden="true" tabindex="-1">
+    <ul class="navPage-subMenu-list">
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action navPages-action-depth-max has-subMenu" href="https://ikonartstencil.com/artwork/" data-collapsible="navPages-25">
+                            Free Artwork <i class="icon navPages-action-moreIcon" aria-hidden="true"><svg><use xlink:href="#icon-chevron-down" /></svg></i>
+                        </a>
+                        <div class="navPage-subMenu navPage-subMenu-horizontal" id="navPages-25" aria-hidden="true" tabindex="-1">
+    <ul class="navPage-subMenu-list">
+        <li class="navPage-subMenu-item-parent">
+            <a class="navPage-subMenu-action navPages-action navPages-action-depth-max" href="https://ikonartstencil.com/artwork/">All Free Artwork</a>
+        </li>
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/spring-svgs/">Spring SVGs</a>
+            </li>
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/summer-svgs/">Summer SVGs</a>
+            </li>
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/fall-svgs/">Fall SVGs</a>
+            </li>
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/winter-svgs/">Winter SVGs</a>
+            </li>
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/misc-svgs/">Misc SVGs</a>
+            </li>
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/so-fontsy-design-shop/">So Fontsy Design Shop</a>
+            </li>
+    </ul>
+</div>
+            </li>
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/resources-list-1/">Resources List</a>
+            </li>
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/facebook-group/">Facebook Group</a>
+            </li>
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/amazon-recommendations/">Amazon Recommendations</a>
+            </li>
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/user-guide/">User Guide</a>
+            </li>
+    </ul>
+</div>
+                        </li>
+                        <li class="navPages-item">
+                                <a class="navPages-action navPages-action-depth-max has-subMenu is-root" href="https://ikonartstencil.com/faq-1/" data-collapsible="navPages-31">
+        FAQ <i class="icon navPages-action-moreIcon" aria-hidden="true"><svg><use xlink:href="#icon-chevron-down" /></svg></i>
+    </a>
+    <div class="navPage-subMenu navPage-subMenu-horizontal" id="navPages-31" aria-hidden="true" tabindex="-1">
+    <ul class="navPage-subMenu-list">
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/about-2/">About Ikonart</a>
+            </li>
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/ikonart-stencil-film-kit-faq-1/">Ikonart Stencil Film &amp; Kit FAQ</a>
+            </li>
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/artwork-faq-1/">Artwork FAQ</a>
+            </li>
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/company-faq-1/">Company &amp; Order FAQ</a>
+            </li>
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/loyalty-program-faq-1/">Loyalty Program FAQ</a>
+            </li>
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/affiliate-faq-1/">Affiliate FAQ</a>
+            </li>
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/tax-exempt-1/">Tax Exempt</a>
+            </li>
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/shipping-returns-1/">Shipping &amp; Returns</a>
+            </li>
+    </ul>
+</div>
+                        </li>
+                        <li class="navPages-item">
+                                <a class="navPages-action" href="https://ikonartstencil.com/contact-1/">Contact</a>
+                        </li>
+    </ul>
+    <ul class="navPages-list navPages-list--user">
+            <li class="navPages-item">
+                <a class="navPages-action has-subMenu" href="#" data-collapsible="navPages-currency" aria-controls="navPages-currency" aria-expanded="false">
+                    Select Currency: USD <i class="icon navPages-action-moreIcon" aria-hidden="true"><svg><use xlink:href="#icon-chevron-down"></use></svg></i>
+                </a>
+                <div class="navPage-subMenu" id="navPages-currency" aria-hidden="true" tabindex="-1">
+                    <ul class="navPage-subMenu-list">
+                        <li class="navPage-subMenu-item">
+                            <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/handwritten-recipes/?setCurrencyId=1">
+                                    <strong>US Dollar</strong>
+                            </a>
+                        </li>
+                        <li class="navPage-subMenu-item">
+                            <a class="navPage-subMenu-action navPages-action" href="https://ikonartstencil.com/handwritten-recipes/?setCurrencyId=2">
+                                    Canadian Dollar
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+            <li class="navPages-item">
+                <a class="navPages-action" href="/login.php">Sign in</a>
+                    or <a class="navPages-action" href="/login.php?action=create_account">Register</a>
+            </li>
+    </ul>
+</nav>
+        </div>
+        <div class="globalBanner" data-slick='{
+    "arrows": false,
+    "dots": false,
+    "mobileFirst": true,
+    "slidesToShow": 1,
+    "slidesToScroll": 1,
+    "autoplay": true,
+    "responsive": [{
+        "breakpoint": 900,
+        "settings": "unslick"
+    }]
+}'>
+        <span class="globalBanner-label">
+            <a href="/ikonart-custom-stencil-kit/">
+                <i class="globalBanner-icon fas fa-fire"></i> 
+                Ikonart Custom Stencil Kit
+            </a>
+        </span>
+        <span class="globalBanner-label">
+            <a href="/blog/">
+                <i class="globalBanner-icon fas fa-info-circle"></i> 
+                On The Blog: Screen Print With Hinge Frame
+            </a>
+        </span>
+        <span class="globalBanner-label">
+            <a href="/shipping-returns/">
+                <i class="globalBanner-icon fas fa-shipping-fast"></i> 
+                $8 Flat Rate Shipping
+            </a>
+        </span>
+</div>
+</header>
+<div data-content-region="below_header--global"></div>
+<div data-content-region="below_header"></div>
+        <div class="body has-globalBanner" data-currency-code="USD">
+     
+    <div class="container">
+            <ul class="breadcrumbs">
+</ul>
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement":
+        [
+        ]
+    }
+</script>
+
+    <div>
+        <div class="productView"  data-event-type="product" data-entity-id="269" data-name="Handwritten Recipes" data-product-category="Resources/Free Artwork, Resources/Free Artwork/Misc SVGs" data-product-brand="" data-product-price="" data-product-variant="single-product-option">
+
+    <section class="productView-details">
+        <div class="productView-product">
+                <div class="card-tags">
+                </div>
+            <div data-content-region="product_above_title"></div>
+            <h1 class="productView-title">Handwritten Recipes</h1>
+            <div data-content-region="product_below_title"></div>
+                <p class="productView-price">
+                    <span>Use the link below to download</span>
+                </p>
+            <div class="productView-price">
+                    
+         <div class="price-section price-section--saving price pricing-details--hidden">
+                <span class="price">(You save</span>
+                <span data-product-price-saved class="price price--saving">
+                    
+                </span>
+                <span class="price">)</span>
+         </div>
+            </div>
+            <div data-content-region="product_below_price"></div>
+            <div class="productView-rating">
+                            <span class="icon icon--ratingEmpty">
+            <svg>
+                <use xlink:href="#icon-star" />
+            </svg>
+        </span>
+        <span class="icon icon--ratingEmpty">
+            <svg>
+                <use xlink:href="#icon-star" />
+            </svg>
+        </span>
+        <span class="icon icon--ratingEmpty">
+            <svg>
+                <use xlink:href="#icon-star" />
+            </svg>
+        </span>
+        <span class="icon icon--ratingEmpty">
+            <svg>
+                <use xlink:href="#icon-star" />
+            </svg>
+        </span>
+        <span class="icon icon--ratingEmpty">
+            <svg>
+                <use xlink:href="#icon-star" />
+            </svg>
+        </span>
+<!-- snippet location product_rating -->
+                    <span class="productView-reviewLink">
+                            (No reviews yet)
+                    </span>
+                    <span class="productView-reviewLink">
+                        <a href="https://ikonartstencil.com/handwritten-recipes/"
+                           data-reveal-id="modal-review-form">
+                           Write a Review
+                        </a>
+                    </span>
+                    <div id="modal-review-form" class="modal" data-reveal>
+    
+    
+    
+    
+    <div class="modal-header">
+        <h2 class="modal-header-title">Write a Review</h2>
+        <a href="#" class="modal-close" aria-label="Close" role="button">
+            <span aria-hidden="true">&#215;</span>
+        </a>
+    </div>
+    <div class="modal-body">
+        <div class="writeReview-productDetails">
+            <div class="writeReview-productImage-container">
+                <img class="lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-8631rjfpbo/stencil/bf12df70-bd2b-013b-0534-0e9043b438c7/e/bcf76350-2e22-013c-2f0f-7674eda2e229/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-8631rjfpbo/images/stencil/800x800/products/269/1581/Handwritte_Recipes__59521.1692898535.jpg?c=2">
+            </div>
+            <h6 class="product-brand"></h6>
+            <h5 class="product-title">Handwritten Recipes</h5>
+        </div>
+        <form class="form writeReview-form" action="/postreview.php" method="post">
+            <fieldset class="form-fieldset">
+                <div class="form-field">
+                    <label class="form-label" for="rating-rate">Rating
+                        <small>Required</small>
+                    </label>
+                    <!-- Stars -->
+                    <!-- TODO: Review Stars need to be componentised, both for display and input -->
+                    <select id="rating-rate" class="form-select" name="revrating">
+                        <option value="">Select Rating</option>
+                                <option value="1">1 star (worst)</option>
+                                <option value="2">2 stars</option>
+                                <option value="3">3 stars (average)</option>
+                                <option value="4">4 stars</option>
+                                <option value="5">5 stars (best)</option>
+                    </select>
+                </div>
+
+                <!-- Name -->
+                    <div class="form-field" id="revfromname" data-validation="" >
+    <label class="form-label" for="revfromname_input">Name
+        
+    </label>
+    <input type="text" id="revfromname_input" data-label="Name" name="revfromname"   class="form-input" aria-required="" >
+</div>
+
+                    <!-- Email -->
+                        <div class="form-field" id="email" data-validation="" >
+    <label class="form-label" for="email_input">Email
+        <small>Required</small>
+    </label>
+    <input type="text" id="email_input" data-label="Email" name="email"   class="form-input" aria-required="false" >
+</div>
+
+                <!-- Review Subject -->
+                <div class="form-field" id="revtitle" data-validation="" >
+    <label class="form-label" for="revtitle_input">Review Subject
+        <small>Required</small>
+    </label>
+    <input type="text" id="revtitle_input" data-label="Review Subject" name="revtitle"   class="form-input" aria-required="true" >
+</div>
+
+                <!-- Comments -->
+                <div class="form-field" id="revtext" data-validation="">
+    <label class="form-label" for="revtext_input">Comments
+            <small>Required</small>
+    </label>
+    <textarea name="revtext" id="revtext_input" data-label="Comments" rows="" aria-required="true" class="form-input" ></textarea>
+</div>
+
+                <div class="g-recaptcha" data-sitekey="6LcjX0sbAAAAACp92-MNpx66FT4pbIWh-FTDmkkz"></div><br/>
+
+                <div class="form-field">
+                    <input type="submit" class="button button--primary"
+                           value="Submit Review">
+                </div>
+                <input type="hidden" name="product_id" value="269">
+                <input type="hidden" name="action" value="post_review">
+                
+            </fieldset>
+        </form>
+    </div>
+</div>
+            </div>
+            <div data-content-region="product_below_rating"></div>
+            
+        </div>
+    </section>
+
+    <section class="productView-images" data-image-gallery>
+        <figure class="productView-image has-thumbs"
+                data-image-gallery-main
+                data-zoom-image="https://cdn11.bigcommerce.com/s-8631rjfpbo/images/stencil/1280x1280/products/269/1581/Handwritte_Recipes__59521.1692898535.jpg?c=2"
+                >
+            <div class="productView-img-container">
+                <a href="https://cdn11.bigcommerce.com/s-8631rjfpbo/images/stencil/1280x1280/products/269/1581/Handwritte_Recipes__59521.1692898535.jpg?c=2">
+                    <img class="productView-image--default lazyload"
+                         data-sizes="auto"
+                         src="https://cdn11.bigcommerce.com/s-8631rjfpbo/stencil/bf12df70-bd2b-013b-0534-0e9043b438c7/e/bcf76350-2e22-013c-2f0f-7674eda2e229/img/loading.svg"
+                         data-src="https://cdn11.bigcommerce.com/s-8631rjfpbo/images/stencil/800x800/products/269/1581/Handwritte_Recipes__59521.1692898535.jpg?c=2"
+                         data-zoom-target="https://cdn11.bigcommerce.com/s-8631rjfpbo/images/stencil/1280x1280/products/269/1581/Handwritte_Recipes__59521.1692898535.jpg?c=2"
+                         alt="handwritten recipe free svg examples for the ikonart custom stencil kit" title="handwritten recipe free svg examples for the ikonart custom stencil kit" data-main-image>
+                </a>
+            </div>
+        </figure>
+        <ul class="productView-thumbs">
+                <li class="productView-thumb">
+                    <a
+                        class="productView-thumbnail-link"
+                        href="https://cdn11.bigcommerce.com/s-8631rjfpbo/images/stencil/800x800/products/269/1581/Handwritte_Recipes__59521.1692898535.jpg?c=2"
+                        data-image-gallery-item
+                        data-image-gallery-new-image-url="https://cdn11.bigcommerce.com/s-8631rjfpbo/images/stencil/800x800/products/269/1581/Handwritte_Recipes__59521.1692898535.jpg?c=2"
+                        data-image-gallery-zoom-image-url="https://cdn11.bigcommerce.com/s-8631rjfpbo/images/stencil/1280x1280/products/269/1581/Handwritte_Recipes__59521.1692898535.jpg?c=2">
+                        <img class="lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-8631rjfpbo/stencil/bf12df70-bd2b-013b-0534-0e9043b438c7/e/bcf76350-2e22-013c-2f0f-7674eda2e229/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-8631rjfpbo/images/stencil/50x50/products/269/1581/Handwritte_Recipes__59521.1692898535.jpg?c=2" alt="handwritten recipe free svg examples for the ikonart custom stencil kit" title="handwritten recipe free svg examples for the ikonart custom stencil kit">
+                    </a>
+                </li>
+                <li class="productView-thumb">
+                    <a
+                        class="productView-thumbnail-link"
+                        href="https://cdn11.bigcommerce.com/s-8631rjfpbo/images/stencil/800x800/products/269/1583/HandwrittenRecipe_DumplingsCuttingBoard_Black__26687.1692974557.jpg?c=2"
+                        data-image-gallery-item
+                        data-image-gallery-new-image-url="https://cdn11.bigcommerce.com/s-8631rjfpbo/images/stencil/800x800/products/269/1583/HandwrittenRecipe_DumplingsCuttingBoard_Black__26687.1692974557.jpg?c=2"
+                        data-image-gallery-zoom-image-url="https://cdn11.bigcommerce.com/s-8631rjfpbo/images/stencil/1280x1280/products/269/1583/HandwrittenRecipe_DumplingsCuttingBoard_Black__26687.1692974557.jpg?c=2">
+                        <img class="lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-8631rjfpbo/stencil/bf12df70-bd2b-013b-0534-0e9043b438c7/e/bcf76350-2e22-013c-2f0f-7674eda2e229/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-8631rjfpbo/images/stencil/50x50/products/269/1583/HandwrittenRecipe_DumplingsCuttingBoard_Black__26687.1692974557.jpg?c=2" alt="Handwritten Recipes" title="Handwritten Recipes">
+                    </a>
+                </li>
+                <li class="productView-thumb">
+                    <a
+                        class="productView-thumbnail-link"
+                        href="https://cdn11.bigcommerce.com/s-8631rjfpbo/images/stencil/800x800/products/269/1584/HandwrittenRecipe_DumplingsCuttingBoard_White__08753.1692974558.jpg?c=2"
+                        data-image-gallery-item
+                        data-image-gallery-new-image-url="https://cdn11.bigcommerce.com/s-8631rjfpbo/images/stencil/800x800/products/269/1584/HandwrittenRecipe_DumplingsCuttingBoard_White__08753.1692974558.jpg?c=2"
+                        data-image-gallery-zoom-image-url="https://cdn11.bigcommerce.com/s-8631rjfpbo/images/stencil/1280x1280/products/269/1584/HandwrittenRecipe_DumplingsCuttingBoard_White__08753.1692974558.jpg?c=2">
+                        <img class="lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-8631rjfpbo/stencil/bf12df70-bd2b-013b-0534-0e9043b438c7/e/bcf76350-2e22-013c-2f0f-7674eda2e229/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-8631rjfpbo/images/stencil/50x50/products/269/1584/HandwrittenRecipe_DumplingsCuttingBoard_White__08753.1692974558.jpg?c=2" alt="Handwritten Recipes" title="Handwritten Recipes">
+                    </a>
+                </li>
+                <li class="productView-thumb">
+                    <a
+                        class="productView-thumbnail-link"
+                        href="https://cdn11.bigcommerce.com/s-8631rjfpbo/images/stencil/800x800/products/269/1582/Dumplings_Recipe_Original__37560.1692974329.jpg?c=2"
+                        data-image-gallery-item
+                        data-image-gallery-new-image-url="https://cdn11.bigcommerce.com/s-8631rjfpbo/images/stencil/800x800/products/269/1582/Dumplings_Recipe_Original__37560.1692974329.jpg?c=2"
+                        data-image-gallery-zoom-image-url="https://cdn11.bigcommerce.com/s-8631rjfpbo/images/stencil/1280x1280/products/269/1582/Dumplings_Recipe_Original__37560.1692974329.jpg?c=2">
+                        <img class="lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-8631rjfpbo/stencil/bf12df70-bd2b-013b-0534-0e9043b438c7/e/bcf76350-2e22-013c-2f0f-7674eda2e229/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-8631rjfpbo/images/stencil/50x50/products/269/1582/Dumplings_Recipe_Original__37560.1692974329.jpg?c=2" alt="handwritten recipe dumplings free svg example convert to svg" title="handwritten recipe dumplings free svg example convert to svg">
+                    </a>
+                </li>
+        </ul>
+    </section>
+
+    <section class="productView-details">
+        <div data-content-region="product_above_options"></div>
+        <div class="productView-options has-wishlist">
+
+            <form class="form swatches--round" method="post" action="" enctype="multipart/form-data"
+                  data-cart-item-add>
+                <input type="hidden" name="action" value="add">
+                <input type="hidden" name="product_id" value="269"/>
+                <div data-product-option-change style="display:none;">
+                </div>
+                <div id="add-to-cart-wrapper" style="display: none">
+        <div class="form-field form-field--increments">
+            <label class="form-label form-label--alternate"
+                   for="qty[]">Quantity:</label>
+
+            <div class="form-increment" data-quantity-change>
+                <button class="button button--icon" data-action="dec">
+                    <span class="is-srOnly">Decrease Quantity:</span>
+                    <i class="icon" aria-hidden="true">
+                        <svg>
+                            <use xlink:href="#icon-remove"/>
+                        </svg>
+                    </i>
+                </button>
+                <input class="form-input form-input--incrementTotal"
+                       id="qty[]"
+                       name="qty[]"
+                       type="number"
+                       value="1"
+                       data-quantity-min="0"
+                       data-quantity-max="0"
+                       min="1"
+                       pattern="[0-9]*"
+                       aria-live="polite">
+                <button class="button button--icon" data-action="inc">
+                    <span class="is-srOnly">Increase Quantity:</span>
+                    <i class="icon" aria-hidden="true">
+                        <svg>
+                            <use xlink:href="#icon-add"/>
+                        </svg>
+                    </i>
+                </button>
+            </div>
+        </div>
+
+<div class="form-field form-field--stock u-hiddenVisually">
+    <label class="form-label">
+        <span data-product-stock></span> items in stock
+    </label>
+</div>
+
+<div class="alertBox productAttributes-message" style="display:none">
+    <div class="alertBox-column alertBox-icon">
+        <icon glyph="ic-success" class="icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-2h2v2zm0-4h-2V7h2v6z"></path></svg></icon>
+    </div>
+    <p class="alertBox-column alertBox-message"></p>
+</div>
+        <div class="productView-info-bulkPricing">
+                    </div>
+    <div class="form-action form-addToCart">
+        <input id="form-action-addToCart" data-wait-message="Adding to cart…" class="button button--primary" type="submit"
+            value="Add to Cart">
+    </div>
+     <!-- snippet location product_addtocart -->
+</div>
+            </form>
+                <form action="/wishlist.php?action=add&amp;product_id=269" class="form form-wishlist form-action" data-wishlist-add method="post">
+    <a aria-controls="wishlist-dropdown" aria-expanded="false" class="button dropdown-menu-button dropdown-menu-button-wishList" data-dropdown="wish-list-dropdown">
+        <i class="icon" aria-hidden="true"><svg><use xlink:href="#icon-heart" /></svg></i>
+    </a>
+    <ul aria-hidden="true" class="dropdown-menu dropdown-menu-wishList" data-dropdown-content id="wish-list-dropdown" tabindex="-1">
+        
+        <li>
+            <input class="button" type="submit" value="Add to My Wish List">
+        </li>
+        <li>
+            <a data-wishlist class="button" href="/wishlist.php?action=addwishlist&product_id=269">Create New Wish List</a>
+        </li>
+    </ul>
+</form>
+            <div data-content-region="product_below_add_to_cart"></div>
+            
+            <div data-content-region="product_below_availability"></div>
+
+            <div data-content-region="product_below_info"></div>
+        </div>
+            <div class="productView-scrollToDescription" id="description">
+                <a href="#description">Product Details <span class="icon"><svg><use xlink:href="#icon-arrow-down"></use></svg></span></a>
+            </div>
+    </section>
+
+    <article class="productView-description description-split">
+            <div data-aos="fade-up" data-aos-duration="300" data-aos-once="true"
+>
+    <h3 id="description_269" class="productView-title">Description</h3>
+    <div data-content-region="product_below_description_title"></div>
+    <div class="productView-description"  data-event-type="product" >
+        <p>Download this free "Handwritten Recipes" vector artwork in pdf or svg file format to use with the <a href="https://ikonartstencil.com/ikonart-custom-stencil-kit/">Ikonart Custom Stencil Kit</a>.&nbsp;<em>Artwork created by Ikonart.&nbsp;Free for personal and commercial use to make stencils out of. This free artwork file MAY NOT be resold or posted on any other website.</em></p>
+<p>Check out this video, <a href="https://youtu.be/grSJDZMaOIs?si=6hsNYS8rzmnf-6Fj" target="_blank">How To Turn A Handwritten Recipe Into An SVG</a>, to learn how to turn your own recipes into scalable artwork. You can use the picture above of the Dumplings recipe card to practice. You can also see <a href="https://ikonartstencil.com/blog/9-handwritten-recipe-gift-ideas-to-make-with-ikonart/">9 Handwritten Recipe Gift Ideas</a> on our blog.&nbsp;&nbsp;</p>
+<ul>
+<li><a href="https://store-8631rjfpbo.mybigcommerce.com/content/Handwritte_Recipes.pdf" target="_blank">Download pdf</a></li>
+<li><a href="https://store-8631rjfpbo.mybigcommerce.com/content/Handwritte_Recipes.svg" target="_blank">Download svg</a></li>
+</ul>
+<hr />
+<p><strong>How To Download<br /></strong>Click on the link above that corresponds to which file you want to use. The pdf or svg file will open in a new window. Right click on the image file and save to your desktop. Open in Inkscape, Vectr or another design program to edit the file. Check out our <a href="https://ikonartstencil.com/artwork-faq/">Artwork FAQ page</a>&nbsp;or our <a href="https://youtube.com/playlist?list=PLLTjukcQk_DVKS8Umr5k8uDgzyXhFW9v_&amp;si=qZJsk9drYQpFsVSp" target="_blank">Artwork For Beginners YouTube Series</a> for more information on adjusting artwork.&nbsp;</p>
+        <!-- snippet location product_description -->
+    </div>
+    <div data-content-region="product_below_description_body"></div>
+</div>
+
+        <div data-aos="fade-up" data-aos-duration="300" data-aos-once="true"
+>
+            <div data-content-region="product_below_additional_details_title"></div>
+            <dl class="productView-info">
+                    <dt class="productView-info-name" style="display: none;">UPC:</dt>
+                    <dd class="productView-info-value" style="display: none;" data-product-upc></dd>
+
+            </dl>
+            <div data-content-region="product_below_additional_details"></div>
+        </div>
+                <div class="addthis_toolbox addthis_32x32_style" addthis:url="https://ikonartstencil.com/handwritten-recipes/"
+         addthis:title="">
+        <ul class="socialLinks">
+                <li class="socialLinks-item socialLinks-item--facebook">
+                    <a class="addthis_button_facebook icon icon--facebook"   >
+
+                            <svg>
+                                <use xlink:href="#icon-facebook"/>
+                            </svg>
+
+
+
+
+
+                    </a>
+                </li>
+                <li class="socialLinks-item socialLinks-item--pinterest">
+                    <a class="addthis_button_pinterest icon icon--pinterest"  data-pin-log="button_pinit_bookmarklet" data-pin-href="https://www.pinterest.com/pin/create/button/" >
+
+
+
+
+
+                            <svg>
+                                <use xlink:href="#icon-pinterest"/>
+                            </svg>
+
+                    </a>
+                </li>
+        </ul>
+        <script type="text/javascript"
+                defer src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4e94ed470ee51e32"></script>
+        <script>
+            window.addEventListener('DOMContentLoaded', function() {
+                if (typeof(addthis) === "object") {
+                    addthis.toolbox('.addthis_toolbox');
+                }
+            });
+        </script>
+    </div>
+        <div data-content-region="product_below_sharing"></div>
+        <!-- snippet location product_details -->
+    </article>
+</div>
+
+<div id="previewModal" class="modal modal--large" data-reveal>
+    <a href="#" class="modal-close" aria-label="Close" role="button">
+        <span aria-hidden="true">&#215;</span>
+    </a>
+    <div class="modal-content"></div>
+    <div class="loadingOverlay"></div>
+</div>
+        <div data-content-region="product_below_product_view"></div>
+
+            <section class="content videoGallery" data-video-gallery>
+    <h2 class="page-heading"><span>Videos</span></h2>
+
+    <div class="videoGallery-content" id="videoGallery-content">
+        <div class="videoGallery-main">
+            <iframe
+                id="player"
+                class="lazyload"
+                type="text/html"
+                width="640"
+                height="390"
+                frameborder="0"
+                webkitAllowFullScreen
+                mozallowfullscreen
+                allowFullScreen
+                data-src="//www.youtube.com/embed/grSJDZMaOIs"
+                data-video-player>
+            </iframe>
+        </div>
+        <ul class="videoGallery-list">
+            <li class="videoGallery-item">
+                <a href="#" class="video is-active" data-video-item data-video-id="grSJDZMaOIs">
+                    <div class="video-figure">
+                        <img class="lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-8631rjfpbo/stencil/bf12df70-bd2b-013b-0534-0e9043b438c7/e/bcf76350-2e22-013c-2f0f-7674eda2e229/img/loading.svg" data-src="//i.ytimg.com/vi/grSJDZMaOIs/default.jpg"/>
+                    </div>
+                    <div class="video-body">
+                        <h5 class="video-title">Artwork For Beginners Part 5: Convert Handwritten Recipe Into a SVG | Vectr + Ikonart</h5>
+                        <p class="video-description">Welcome to Part 5 of our Artwork For Beginner series. In this ...</p>
+                    </div>
+                </a>
+            </li>
+        </ul>
+    </div>
+
+</section>
+        <div data-content-region="product_below_videos"></div>
+
+                    <div data-content-region="product_below_related_articles"></div>
+
+        <div data-content-region="product_below_reviews"></div>
+
+            
+    <section class="content productView-upsell">
+        <h2 class="page-heading"><span>Customers Also Viewed</span></h2>
+        <section class="productCarousel"
+    data-list-name=""
+    data-slick='{
+        "arrows": true,
+        "autoplay": true,
+        "autoplaySpeed": 5000,
+        "dots": true,
+        "infinite": true,
+        "mobileFirst": true,
+        "slidesToShow": 2,
+        "slidesToScroll": 2,
+        "responsive": [
+            {
+                "breakpoint": 1600,
+                "settings": {
+                    "arrows": false,
+                    "slidesToScroll": 6,
+                    "slidesToShow": 6
+                }
+            },
+            {
+                "breakpoint": 1260,
+                "settings": {
+                    "arrows": false,
+                    "slidesToScroll": 4,
+                    "slidesToShow": 4
+                }
+            },
+            {
+                "breakpoint": 767,
+                "settings": {
+                    "arrows": false,
+                    "slidesToScroll": 3,
+                    "slidesToShow": 3
+                }
+            },
+            {
+                "breakpoint": 550,
+                "settings": {
+                    "arrows": false,
+                    "slidesToScroll": 2,
+                    "slidesToShow": 2
+                }
+            }
+        ]
+    }'
+    
+>
+    <div class="productCarousel-slide">
+        <article class="card " data-aos="fade-up" data-aos-duration="300" data-aos-delay="15" data-aos-once="true"
+  data-event-type="list" data-entity-id="262" data-position="1" data-name="Dragonfly Stained Glass" data-product-category="Resources/Free Artwork, Resources/Free Artwork/Spring SVGs" data-product-brand="" data-product-price=""  >
+    <figure class="card-figure">
+            <a href="https://ikonartstencil.com/dragonfly-stained-glass/"  data-event-type="product-click" >
+                <div class="card-img-container">
+                    <img class="card-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-8631rjfpbo/stencil/bf12df70-bd2b-013b-0534-0e9043b438c7/e/bcf76350-2e22-013c-2f0f-7674eda2e229/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-8631rjfpbo/images/stencil/500x500/products/262/1542/Dragonfly_Stained_Glass__27440.1680723094.jpg?c=2" data-hover="https://cdn11.bigcommerce.com/s-8631rjfpbo/images/stencil/500x500/products/262/1544/DragonflyStainedGlass_TutorialLee__12287.1680724216.jpg?c=2" alt="dragonfly stained glass free svg ikonart stencil" title="dragonfly stained glass free svg ikonart stencil">
+                </div>
+            </a>
+            <div class="card-tags">
+            </div>
+        <figcaption class="card-figcaption">
+            <div class="card-figcaption-body">
+                                <a href="#" class="button button--square card-figcaption-button quickview" data-event-type="product-click" data-product-id="262"><i class="icon" aria-hidden="true"><svg><use xlink:href="#icon-quick-view" /></svg></i></a>
+            </div>
+        </figcaption>
+    </figure>
+    <div class="card-body">
+        <h4 class="card-title">
+                <a href="https://ikonartstencil.com/dragonfly-stained-glass/"  data-event-type="product-click" >Dragonfly Stained Glass</a>
+        </h4>
+
+        <div class="card-text" data-test-info-type="price">
+                
+        </div>
+
+
+
+
+    </div>
+</article>
+    </div>
+    <div class="productCarousel-slide">
+        <article class="card " data-aos="fade-up" data-aos-duration="300" data-aos-delay="30" data-aos-once="true"
+  data-event-type="list" data-entity-id="254" data-position="2" data-name="O Christmas Tree" data-product-category="Resources/Free Artwork, Resources/Free Artwork/Winter SVGs" data-product-brand="" data-product-price=""  >
+    <figure class="card-figure">
+            <a href="https://ikonartstencil.com/o-christmas-tree/"  data-event-type="product-click" >
+                <div class="card-img-container">
+                    <img class="card-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-8631rjfpbo/stencil/bf12df70-bd2b-013b-0534-0e9043b438c7/e/bcf76350-2e22-013c-2f0f-7674eda2e229/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-8631rjfpbo/images/stencil/500x500/products/254/1479/O_Christmas_Tree__88590.1669914907.jpg?c=2" data-hover="https://cdn11.bigcommerce.com/s-8631rjfpbo/images/stencil/500x500/products/254/1480/OChristmasTree_WoodSign_Lisa__91592.1669914907.jpg?c=2" alt="o christmas tree free svg ikonart stencil lisa letters" title="o christmas tree free svg ikonart stencil lisa letters">
+                </div>
+            </a>
+            <div class="card-tags">
+            </div>
+        <figcaption class="card-figcaption">
+            <div class="card-figcaption-body">
+                                <a href="#" class="button button--square card-figcaption-button quickview" data-event-type="product-click" data-product-id="254"><i class="icon" aria-hidden="true"><svg><use xlink:href="#icon-quick-view" /></svg></i></a>
+            </div>
+        </figcaption>
+    </figure>
+    <div class="card-body">
+        <h4 class="card-title">
+                <a href="https://ikonartstencil.com/o-christmas-tree/"  data-event-type="product-click" >O Christmas Tree</a>
+        </h4>
+
+        <div class="card-text" data-test-info-type="price">
+                
+        </div>
+
+
+
+
+    </div>
+</article>
+    </div>
+    <div class="productCarousel-slide">
+        <article class="card " data-aos="fade-up" data-aos-duration="300" data-aos-delay="45" data-aos-once="true"
+  data-event-type="list" data-entity-id="265" data-position="3" data-name="Retro Flowers" data-product-category="Resources/Free Artwork, Resources/Free Artwork/Spring SVGs" data-product-brand="" data-product-price=""  >
+    <figure class="card-figure">
+            <a href="https://ikonartstencil.com/retro-flowers/"  data-event-type="product-click" >
+                <div class="card-img-container">
+                    <img class="card-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-8631rjfpbo/stencil/bf12df70-bd2b-013b-0534-0e9043b438c7/e/bcf76350-2e22-013c-2f0f-7674eda2e229/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-8631rjfpbo/images/stencil/500x500/products/265/1560/Retro_Flowers__19681.1685635097.jpg?c=2" data-hover="https://cdn11.bigcommerce.com/s-8631rjfpbo/images/stencil/500x500/products/265/1561/RetroFlowers_MeghanSpringTote__55582.1685635103.jpg?c=2" alt="retro flowers free svg layered design for ikonart stencils" title="retro flowers free svg layered design for ikonart stencils">
+                </div>
+            </a>
+            <div class="card-tags">
+            </div>
+        <figcaption class="card-figcaption">
+            <div class="card-figcaption-body">
+                                <a href="#" class="button button--square card-figcaption-button quickview" data-event-type="product-click" data-product-id="265"><i class="icon" aria-hidden="true"><svg><use xlink:href="#icon-quick-view" /></svg></i></a>
+            </div>
+        </figcaption>
+    </figure>
+    <div class="card-body">
+        <h4 class="card-title">
+                <a href="https://ikonartstencil.com/retro-flowers/"  data-event-type="product-click" >Retro Flowers</a>
+        </h4>
+
+        <div class="card-text" data-test-info-type="price">
+                
+        </div>
+
+
+
+
+    </div>
+</article>
+    </div>
+    <div class="productCarousel-slide">
+        <article class="card " data-aos="fade-up" data-aos-duration="300" data-aos-delay="60" data-aos-once="true"
+  data-event-type="list" data-entity-id="264" data-position="4" data-name="Welcome Spring" data-product-category="Resources/Free Artwork, Resources/Free Artwork/Spring SVGs" data-product-brand="" data-product-price=""  >
+    <figure class="card-figure">
+            <a href="https://ikonartstencil.com/welcome-spring/"  data-event-type="product-click" >
+                <div class="card-img-container">
+                    <img class="card-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-8631rjfpbo/stencil/bf12df70-bd2b-013b-0534-0e9043b438c7/e/bcf76350-2e22-013c-2f0f-7674eda2e229/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-8631rjfpbo/images/stencil/500x500/products/264/1551/Welcome_Spring__76574.1681826117.jpg?c=2" data-hover="https://cdn11.bigcommerce.com/s-8631rjfpbo/images/stencil/500x500/products/264/1553/WelcomeSpring_FlowerToddlerShirt__52002.1685635432.jpg?c=2" alt="welcome spring hello spring free svg ikonart custom stencil kit" title="welcome spring hello spring free svg ikonart custom stencil kit">
+                </div>
+            </a>
+            <div class="card-tags">
+            </div>
+        <figcaption class="card-figcaption">
+            <div class="card-figcaption-body">
+                                <a href="#" class="button button--square card-figcaption-button quickview" data-event-type="product-click" data-product-id="264"><i class="icon" aria-hidden="true"><svg><use xlink:href="#icon-quick-view" /></svg></i></a>
+            </div>
+        </figcaption>
+    </figure>
+    <div class="card-body">
+        <h4 class="card-title">
+                <a href="https://ikonartstencil.com/welcome-spring/"  data-event-type="product-click" >Welcome Spring</a>
+        </h4>
+
+        <div class="card-text" data-test-info-type="price">
+                
+        </div>
+
+
+
+
+    </div>
+</article>
+    </div>
+    <div class="productCarousel-slide">
+        <article class="card " data-aos="fade-up" data-aos-duration="300" data-aos-delay="75" data-aos-once="true"
+  data-event-type="list" data-entity-id="268" data-position="5" data-name="Lake Life Beach Life" data-product-category="Resources/Free Artwork, Resources/Free Artwork/Summer SVGs" data-product-brand="" data-product-price=""  >
+    <figure class="card-figure">
+            <a href="https://ikonartstencil.com/lake-life-beach-life/"  data-event-type="product-click" >
+                <div class="card-img-container">
+                    <img class="card-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-8631rjfpbo/stencil/bf12df70-bd2b-013b-0534-0e9043b438c7/e/bcf76350-2e22-013c-2f0f-7674eda2e229/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-8631rjfpbo/images/stencil/500x500/products/268/1575/Lake_Life_Beach_Life__96083.1689171156.jpg?c=2" data-hover="https://cdn11.bigcommerce.com/s-8631rjfpbo/images/stencil/500x500/products/268/1576/LakeLife_MarbledSign__46947.1689349916.jpg?c=2" alt="lake life free svg beach life ikonart stencil making kit" title="lake life free svg beach life ikonart stencil making kit">
+                </div>
+            </a>
+            <div class="card-tags">
+            </div>
+        <figcaption class="card-figcaption">
+            <div class="card-figcaption-body">
+                                <a href="#" class="button button--square card-figcaption-button quickview" data-event-type="product-click" data-product-id="268"><i class="icon" aria-hidden="true"><svg><use xlink:href="#icon-quick-view" /></svg></i></a>
+            </div>
+        </figcaption>
+    </figure>
+    <div class="card-body">
+        <h4 class="card-title">
+                <a href="https://ikonartstencil.com/lake-life-beach-life/"  data-event-type="product-click" >Lake Life Beach Life</a>
+        </h4>
+
+        <div class="card-text" data-test-info-type="price">
+                
+        </div>
+
+
+
+
+    </div>
+</article>
+    </div>
+</section>
+    </section>
+        <div data-content-region="product_below_upsell"></div>
+
+    </div>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org/",
+        "@type": "Product",
+        "name": "Handwritten Recipes",
+        "url" : "https://ikonartstencil.com/handwritten-recipes/",
+        "description": "Download%20this%20free%20%22Handwritten%20Recipes%22%20vector%20artwork%20in%20pdf%20or%20svg%20file%20format%20to%20use%20with%20the%20Ikonart%20Custom%20Stencil%20Kit.%26nbsp%3BArtwork%20created%20by%20Ikonart.%26nbsp%3BFree%20for%20personal%20and%20commercial%20use%20to%20make%20stencils%20out%20of.%20This%20free%20artwork%20file%20MAY%20NOT%20be%20resold%20or%20posted%20on%20any%20other%20website.%0D%0ACheck%20out%20this%20video%2C%20How%20To%20Turn%20A%20Handwritten%20Recipe%20Into%20An%20SVG%2C%20to%20learn%20how%20to%20turn%20your%20own%20recipes%20into%20scalable%20artwork.%20You%20can%20use%20the%20picture%20above%20of%20the%20Dumplings%20recipe%20card%20to%20practice.%20You%20can%20also%20see%209%20Handwritten%20Recipe%20Gift%20Ideas%20on%20our%20blog.%26nbsp%3B%26nbsp%3B%0D%0A%0D%0ADownload%20pdf%0D%0ADownload%20svg%0D%0A%0D%0A%0D%0AHow%20To%20DownloadClick%20on%20the%20link%20above%20that%20corresponds%20to%20which%20file%20you%20want%20to%20use.%20The%20pdf%20or%20svg%20file%20will%20open%20in%20a%20new%20window.%20Right%20click%20on%20the%20image%20file%20and%20save%20to%20your%20desktop.%20Open%20in%20Inkscape%2C%20Vectr%20or%20another%20design%20program%20to%20edit%20the%20file.%20Check%20out%20our%20Artwork%20FAQ%20page%26nbsp%3Bor%20our%20Artwork%20For%20Beginners%20YouTube%20Series%20for%20more%20information%20on%20adjusting%20artwork.%26nbsp%3B",
+        "image": "https://cdn11.bigcommerce.com/s-8631rjfpbo/images/stencil/1280x1280/products/269/1581/Handwritte_Recipes__59521.1692898535.jpg?c=2",
+        "offers": {
+            "@type": "Offer",
+            "priceCurrency": "USD",
+            "price": "",
+            "itemCondition" : "https://schema.org/NewCondition",
+            "availability" : "https://schema.org/OutOfStock",
+            "url" : "https://ikonartstencil.com/handwritten-recipes/",
+            "priceValidUntil": "2024-09-16"
+        }
+    }
+</script>
+    </div>
+    <div id="modal" class="modal" data-reveal data-prevent-quick-search-close>
+    <a href="#" class="modal-close" aria-label="Close" role="button">
+        <span aria-hidden="true">&#215;</span>
+    </a>
+    <div class="modal-content"></div>
+    <div class="loadingOverlay"></div>
+</div>
+</div>
+            <div data-content-region="above_footer"></div>
+<div data-content-region="above_footer--global"></div>
+<footer class="footer" role="contentinfo">
+    <div class="container">
+        <section class="footer-info">
+            <article class="footer-info-col footer-info-col--small" data-section-type="footer-webPages" data-aos="fade-up" data-aos-offset="20" data-aos-duration="300" data-aos-delay="100"
+>
+                <h5 class="footer-info-heading">Navigate</h5>
+                <ul class="footer-info-list">
+                        <li>
+                            <a href="https://ikonartstencil.com/demo-videos/">Demo Videos</a>
+                        </li>
+                        <li>
+                            <a href="https://ikonartstencil.com/ikonart-101/">Ikonart 101</a>
+                        </li>
+                        <li>
+                            <a href="https://ikonartstencil.com/privacy-policy/">Privacy Policy</a>
+                        </li>
+                        <li>
+                            <a href="https://ikonartstencil.com/shipping-returns/">Shipping &amp; Returns</a>
+                        </li>
+                        <li>
+                            <a href="https://ikonartstencil.com/where-to-buy/">Where To Buy</a>
+                        </li>
+                        <li>
+                            <a href="https://ikonartstencil.com/blog/">Blog</a>
+                        </li>
+                    <li>
+                        <a href="/sitemap.php">Sitemap</a>
+                    </li>
+                </ul>
+            </article>
+
+            <article class="footer-info-col footer-info-col--small" data-section-type="footer-categories" data-aos="fade-up" data-aos-offset="20" data-aos-duration="300" data-aos-delay="200"
+>
+                <h5 class="footer-info-heading">Categories</h5>
+                <ul class="footer-info-list">
+                        <li>
+                            <a href="https://ikonartstencil.com/home/">Home</a>
+                        </li>
+                        <li>
+                            <a href="https://ikonartstencil.com/shop/">Shop</a>
+                        </li>
+                        <li>
+                            <a href="https://ikonartstencil.com/start-here/">Start Here</a>
+                        </li>
+                        <li>
+                            <a href="https://ikonartstencil.com/resources-1/">Resources</a>
+                        </li>
+                        <li>
+                            <a href="https://ikonartstencil.com/faq-1/">FAQ</a>
+                        </li>
+                        <li>
+                            <a href="https://ikonartstencil.com/contact-1/">Contact</a>
+                        </li>
+                </ul>
+            </article>
+
+
+            <article class="footer-info-col footer-info-col--large" data-section-type="newsletterSubscription" data-aos="fade-up" data-aos-offset="20" data-aos-duration="300" data-aos-delay="400"
+>
+                    <div class="footer-newsletter-info">
+    <h5 class="footer-info-heading">Subscribe to our newsletter</h5>
+    <p>Get the latest updates on new products and upcoming sales</p>
+</div>
+
+<form class="form" action="/subscribe.php" method="post">
+    <fieldset class="form-fieldset">
+        <input type="hidden" name="action" value="subscribe">
+        <input type="hidden" name="nl_first_name" value="bc">
+        <input type="hidden" name="check" value="1">
+        <div class="form-field">
+            <label class="form-label is-srOnly" for="nl_email">Email Address</label>
+            <div class="form-prefixPostfix wrap">
+                <input class="form-input" id="nl_email" name="nl_email" type="email" value="" placeholder="Your email address">
+                <input class="button button--primary form-prefixPostfix-button--postfix" type="submit" value="Subscribe">
+            </div>
+        </div>
+    </fieldset>
+</form>
+                    <h5 class="footer-info-heading">Connect With Us</h5>
+                        <ul class="socialLinks socialLinks--alt">
+            <li class="socialLinks-item">
+                    <a href="https://www.instagram.com/ikonartstencil" target="_blank">
+                        <i class="icon icon--instagram"><svg><use xlink:href="#icon-instagram" /></svg></i>
+                    </a>
+            </li>
+            <li class="socialLinks-item">
+                    <a href="https://www.youtube.com/channel/UCxZEUwW8y27TTFpAs79Vugg" target="_blank">
+                        <i class="icon icon--youtube"><svg><use xlink:href="#icon-youtube" /></svg></i>
+                    </a>
+            </li>
+            <li class="socialLinks-item">
+                    <a href="https://www.facebook.com/ikonartstencil/" target="_blank">
+                        <i class="icon icon--facebook"><svg><use xlink:href="#icon-facebook" /></svg></i>
+                    </a>
+            </li>
+            <li class="socialLinks-item">
+                    <a href="https://www.pinterest.com/ikonartstencil/_created/" target="_blank">
+                        <i class="icon icon--pinterest"><svg><use xlink:href="#icon-pinterest" /></svg></i>
+                    </a>
+            </li>
+            <li class="socialLinks-item">
+                    <a href="https://www.tiktok.com/@ikonartstencil" target="_blank">
+                        <i class="icon icon--rss"><svg><use xlink:href="#icon-rss" /></svg></i>
+                    </a>
+            </li>
+    </ul>
+                            <div class="footer-payment-icons">
+                <span>
+                    <svg aria-hidden="true">
+                        <use xlink:href="#icon-payments-visa"></use>
+                    </svg>
+                </span>
+                <span>
+                    <svg aria-hidden="true">
+                        <use xlink:href="#icon-payments-mastercard"></use>
+                    </svg>
+                </span>
+                <span class="payment-icon-square">
+                    <svg aria-hidden="true">
+                        <use xlink:href="#icon-payments-american-express-alt"></use>
+                    </svg>
+                </span>
+                <span>
+                    <svg aria-hidden="true">
+                        <use xlink:href="#icon-payments-discover"></use>
+                    </svg>
+                </span>
+                <span>
+                    <svg aria-hidden="true">
+                        <use xlink:href="#icon-payments-paypal"></use>
+                    </svg>
+                </span>
+        </div>
+                <div data-content-region="ssl_site_seal--global"></div>
+            </article>
+        </section>
+        <div class="footer-copyright">
+                <div><a href="tel:(800) 643-1037 ext.104">Need help? Call us on (800) 643-1037 ext.104</a></div>
+            <address>IKONICS
+4832 Grand Ave
+Duluth, MN 55807
+USA</address>
+        </div>
+            <div class="footer-copyright">
+                <p class="powered-by">&copy; 2023 Ikonart Stencil </p>
+            </div>
+    </div>
+</footer>
+<div data-content-region="below_footer--global"></div>
+<div data-content-region="below_footer"></div>
+
+        <script>window.__webpack_public_path__ = "https://cdn11.bigcommerce.com/s-8631rjfpbo/stencil/bf12df70-bd2b-013b-0534-0e9043b438c7/e/bcf76350-2e22-013c-2f0f-7674eda2e229/dist/";</script>
+
+        <script>
+            // Exported in app.js
+            function onThemeBundleMain() {
+                window.stencilBootstrap("product", "{\"enableSwatches\":false,\"enableSizes\":false,\"enableImageHoverSwitcher\":true,\"enableSelectedOptionLabel\":true,\"addToCartMode\":\"dropdown\",\"themeSettings\":{\"optimizedCheckout-formChecklist-color\":\"#373737\",\"rename_warranty_field\":\"\",\"e\":\"Contemporary\",\"homepage_new_products_column_count\":4,\"navPages-sticky-backgroundColor\":\"#ffffff\",\"card--alternate-color--hover\":\"#ffffff\",\"hide_featured_category_names\":false,\"fontSize-root\":16,\"show_accept_amex\":true,\"optimizedCheckout-buttonPrimary-borderColorDisabled\":\"transparent\",\"homepage_top_products_count\":0,\"navPages-sticky-color-hover\":\"#D20077\",\"grid_swatch_option_size\":\"10x10\",\"cart_icon\":\"cart\",\"paymentbuttons-paypal-size\":\"small\",\"optimizedCheckout-buttonPrimary-backgroundColorActive\":\"#050505\",\"show_subcategories_as_grid\":false,\"brandpage_products_per_page\":24,\"color-secondaryDarker\":\"#cccccc\",\"optimizedCheckout-colorFocus\":\"#373737\",\"show_articles_on_homepage\":true,\"color-textBase--active\":\"#373737\",\"card_button_style\":\"square\",\"social_icon_placement_bottom\":true,\"navUser-indicator-textColor\":\"#ffffff\",\"show_powered_by\":false,\"navUser-color\":\"#050505\",\"show_wishlist_on_grid\":false,\"fontSize-h4\":16,\"checkRadio-borderColor\":\"#999999\",\"color-primaryDarker\":\"#373737\",\"global_banner_link_1\":\"/ikonart-custom-stencil-kit/\",\"developer_fixes\":false,\"optimizedCheckout-buttonPrimary-colorHover\":\"#ffffff\",\"brand_size\":\"300x300\",\"optimizedCheckout-logo-position\":\"left\",\"optimizedCheckout-discountBanner-backgroundColor\":\"#F1A500\",\"color-textLink--hover\":\"#373737\",\"optimizedCheckout-buttonSecondary-backgroundColorHover\":\"#ffffff\",\"global_banner_icon_3\":\"fas fa-shipping-fast\",\"svg_logo\":\"IKONART_LOGO.svg\",\"logo_size\":\"200x50\",\"newsletter_popup_title\":\"Sign Up For 15% Off\",\"optimizedCheckout-formField-backgroundColor\":\"#ffffff\",\"newsletter_popup_reappear_after\":10,\"pdp-sale-price-label\":\"Now:\",\"footer-backgroundColor\":\"#ebebeb\",\"hero_width\":\"full\",\"navPages-color\":\"#ffffff\",\"productpage_reviews_count\":5,\"optimizedCheckout-step-borderColor\":\"#dddddd\",\"optimizedCheckout-headingPrimary-font\":\"Google_Montserrat_400\",\"percentage_saving_backgroundColor\":\"#ee9ae5\",\"replace_utility_menu_with_icons\":true,\"show_accept_paypal\":true,\"paymentbuttons-paypal-label\":\"checkout\",\"custom_checkout_css\":false,\"show_wishlist_in_navigation\":false,\"optimizedCheckout-discountBanner-textColor\":\"#373737\",\"optimizedCheckout-backgroundImage-size\":\"1000x400\",\"pdp-retail-price-label\":\"MSRP:\",\"show_percentage_saving\":false,\"paymentbuttons-paypal-shape\":\"rect\",\"global_banner_backgroundColor\":\"#D20077\",\"navPages-subMenu-background-color-hover\":\"#D20077\",\"optimizedCheckout-buttonPrimary-font\":\"Google_Montserrat_400\",\"carousel-dot-color\":\"#ebebeb\",\"button--disabled-backgroundColor\":\"#cccccc\",\"hide_category_image_on_categories\":true,\"global_banner_message_3\":\"$8 Flat Rate Shipping\",\"blockquote-cite-font-color\":\"#999999\",\"show_homepage_featured_categories\":false,\"n\":\"Covent Garden\",\"twitter_screen_name\":\"\",\"optimizedCheckout-formField-shadowColor\":\"#e5e5e5\",\"categorypage_products_per_page\":24,\"show_blog_card_summary\":true,\"max_page_width\":\"1800\",\"container-fill-base\":\"#D20077\",\"homepage_featured_products_column_count\":4,\"button--default-color\":\"#050505\",\"color-textLink--active\":\"#373737\",\"footer-buttonTextColor\":\"#ffffff\",\"show_powered_by_braintree\":false,\"enable_circular_swatches\":true,\"footer-iconColorHover\":\"#D20077\",\"optimizedCheckout-loadingToaster-backgroundColor\":\"#373737\",\"color-textHeading\":\"#050505\",\"show_accept_discover\":true,\"paymentbuttons-paypal-layout\":\"horizontal\",\"show_phone_number_in_header\":true,\"pace-progress-backgroundColor\":\"#999999\",\"footer-linkColorHover\":\"#D20077\",\"optimizedCheckout-formField-errorColor\":\"#31C6F4\",\"spinner-borderColor-dark\":\"#6E3890\",\"restrict_to_login\":false,\"input-font-color\":\"#050505\",\"carousel-title-color\":\"#ffffff\",\"show_custom_product_labels\":true,\"select-bg-color\":\"#ffffff\",\"show_selected_option_on_label\":true,\"show_accept_mastercard\":true,\"newsletter_popup_close_color\":\"#D20077\",\"footer-inputBackgroundColor\":\"#ffffff\",\"color_text_product_sale_badges\":\"#ffffff\",\"enable_instagram_feed\":false,\"enable_simple_header\":false,\"newsletter_popup_image\":\"\",\"optimizedCheckout-link-font\":\"Google_Montserrat_400\",\"homepage_show_carousel_arrows\":false,\"global_banner_link_2\":\"/blog/\",\"home_featured_products_carousel\":true,\"carousel-arrow-bgColor\":\"#ffffff\",\"color_hover_product_sale_badges\":\"#000000\",\"show_accept_giropay\":false,\"card--alternate-borderColor\":\"#ffffff\",\"homepage_new_products_count\":0,\"mobile_navigation_background_color\":\"#ebebeb\",\"color-primaryDark\":\"#696969\",\"show_payment_methods_in_cart\":true,\"twitter_posts_count\":6,\"color-grey\":\"#999999\",\"simple-footer-newsletter-textColor\":\"#050505\",\"body-font\":\"Google_Montserrat_400\",\"optimizedCheckout-step-textColor\":\"#373737\",\"related_content_panel_text\":\"#000000\",\"button--disabled-color\":\"#ffffff\",\"optimizedCheckout-buttonPrimary-borderColorActive\":\"transparent\",\"navPages-subMenu-backgroundColor\":\"#EBEBEB\",\"button--primary-backgroundColor\":\"#050505\",\"custom_store_css\":false,\"checkRadio-color\":\"#373737\",\"show_product_dimensions\":false,\"optimizedCheckout-link-color\":\"#050505\",\"card-figcaption-button-background\":\"#ffffff\",\"icon-color-hover\":\"#D20077\",\"button--default-borderColor\":\"#050505\",\"optimizedCheckout-headingSecondary-font\":\"Google_Montserrat_400\",\"subcategories_grid_column_count\":4,\"headings-font\":\"Google_Montserrat_700\",\"label-backgroundColor\":\"#696969\",\"button--primary-backgroundColorHover\":\"#D20077\",\"optimizedCheckout-formField-borderColor\":\"#ebebeb\",\"newsletter_popup_delay\":5000,\"pdp-non-sale-price-label\":\"Was:\",\"button--disabled-borderColor\":\"transparent\",\"label-color\":\"#ffffff\",\"optimizedCheckout-headingSecondary-color\":\"#373737\",\"select-arrow-color\":\"#373737\",\"logo_fontSize\":28,\"alert-backgroundColor\":\"#ffffff\",\"optimizedCheckout-logo-size\":\"250x100\",\"hero_align\":\"center\",\"default_image_brand\":\"/assets/img/BrandDefault.gif\",\"show_accept_ideal\":false,\"card-title-color\":\"#050505\",\"global_banner_icon_2\":\"fas fa-info-circle\",\"product_list_display_mode\":\"grid\",\"optimizedCheckout-link-hoverColor\":\"#373737\",\"alternative_card_panels\":false,\"fontSize-h5\":16,\"selling_fast_tag_text_color\":\"#ffffff\",\"enable_elfsight_instagram_feed\":true,\"product_size\":\"800x800\",\"paymentbuttons-paypal-color\":\"silver\",\"homepage_show_carousel\":false,\"show_accept_wechat_pay\":false,\"optimizedCheckout-body-backgroundColor\":\"#ffffff\",\"carousel-arrow-borderColor\":\"#ffffff\",\"hide_category_view_all\":true,\"button--default-borderColorActive\":\"#050505\",\"header-backgroundColor\":\"#ffffff\",\"show_accept_jcb\":false,\"color-greyDarkest\":\"#050505\",\"price_ranges\":true,\"productpage_videos_count\":8,\"color-greyDark\":\"#696969\",\"footer-buttonColorActive\":\"#6E3890\",\"twitter_display_type\":\"\",\"paymentbuttons-paypal-tagline\":false,\"home_new_products_carousel\":true,\"color_badge_product_sale_badges\":\"#007dc6\",\"optimizedCheckout-buttonSecondary-borderColorHover\":\"#373737\",\"optimizedCheckout-discountBanner-iconColor\":\"#373737\",\"show_sizes_on_grid\":false,\"alternative_card_panel_text\":\"#6E3890\",\"global_banner_message_2\":\"On The Blog: Screen Print With Hinge Frame\",\"optimizedCheckout-buttonSecondary-borderColor\":\"#050505\",\"optimizedCheckout-loadingToaster-textColor\":\"#ffffff\",\"optimizedCheckout-buttonPrimary-colorDisabled\":\"#ffffff\",\"optimizedCheckout-formField-placeholderColor\":\"#696969\",\"navUser-color-hover\":\"#D20077\",\"icon-ratingFull\":\"#D20077\",\"taggbox_instagram_app_code\":\"\",\"footer-inputBorderColor\":\"#ffffff\",\"twitter_collection_id\":\"\",\"color-textBase--hover\":\"#D20077\",\"show_accept_mcsc\":false,\"show_powered_by_square\":false,\"color-errorLight\":\"#ffdddd\",\"default_image_gift_certificate\":\"/assets/img/GiftCertificate.png\",\"show_selling_fast_tags\":false,\"social_icon_placement_top\":false,\"instagram_posts_count\":4,\"blog_size\":\"800x800\",\"hide_navigation_featured_categories\":true,\"newsletter_popup_backgroundColor\":\"#ffffff\",\"shop_by_price_visibility\":false,\"optimizedCheckout-buttonSecondary-colorActive\":\"#050505\",\"optimizedCheckout-orderSummary-backgroundColor\":\"#ffffff\",\"show_designed_by\":false,\"color-warningLight\":\"#fffdea\",\"show_product_weight\":false,\"button--default-colorActive\":\"#050505\",\"show_accept_alipay\":false,\"color-info\":\"#f1a500\",\"featured_category_columns\":4,\"custom_product_label_text_color\":\"#ffffff\",\"optimizedCheckout-formChecklist-backgroundColorSelected\":\"#f5f5f5\",\"custom_product_label_backgroundColor\":\"#D20077\",\"show_product_quick_view\":true,\"button--default-borderColorHover\":\"#373737\",\"card--alternate-backgroundColor\":\"#ffffff\",\"carousel-type\":\"storyboard\",\"show_stock_level_on_grid\":false,\"hide_content_navigation\":true,\"sale_tag_backgroundColor\":\"#D20077\",\"pdp-price-label\":\"\",\"show_copyright_footer\":true,\"swatch_option_size\":\"20x20\",\"optimizedCheckout-orderSummary-borderColor\":\"#ebebeb\",\"navPages-backgroundColor\":\"#050505\",\"optimizedCheckout-show-logo\":\"none\",\"show_accept_sepa\":false,\"carousel-description-color\":\"#ffffff\",\"blog_listing_size\":\"420x420\",\"show_accept_diners\":false,\"gradient_text\":\"#ffffff\",\"optimizedCheckout-formChecklist-backgroundColor\":\"#ffffff\",\"fontSize-h2\":22,\"optimizedCheckout-step-backgroundColor\":\"#ebebeb\",\"selling_fast_tag_backgroundColor\":\"#D20077\",\"optimizedCheckout-headingPrimary-color\":\"#050505\",\"color-textBase\":\"#050505\",\"show_accept_elo\":false,\"color-warning\":\"#f1a500\",\"v\":\"2.4.1\",\"productgallery_size\":\"500x500\",\"enable_editorial_mode\":true,\"show_accept_vp\":false,\"alert-color\":\"#050505\",\"instagram_title\":\"\",\"shop_by_brand_show_footer\":false,\"card-figcaption-button-color\":\"#050505\",\"searchpage_products_per_page\":24,\"color-textSecondary--active\":\"#696969\",\"optimizedCheckout-formField-inputControlColor\":\"#373737\",\"optimizedCheckout-contentPrimary-color\":\"#050505\",\"optimizedCheckout-buttonSecondary-font\":\"Google_Montserrat_400\",\"storeName-color\":\"#050505\",\"optimizedCheckout-backgroundImage\":\"\",\"form-label-font-color\":\"#373737\",\"enable_custom_fonts\":false,\"global_banner_icon_1\":\"fas fa-fire\",\"show_accept_bancontact\":false,\"color-greyLightest\":\"#e5e5e5\",\"optimizedCheckout-header-backgroundColor\":\"#ffffff\",\"optimizedCheckout-buttonSecondary-backgroundColorActive\":\"#ffffff\",\"color-textLink\":\"#D20077\",\"enable_animations\":true,\"color-greyLighter\":\"#cccccc\",\"enable_taggbox_instagram_feed\":false,\"show_accept_paysafe\":false,\"show_powered_by_skrill\":false,\"productpage_related_products_count\":5,\"color-secondaryDark\":\"#e5e5e5\",\"fontSize-h6\":12,\"paymentbuttons-paypal-fundingicons\":false,\"carousel-arrow-color\":\"#ffffff\",\"sale_tag_text_color\":\"#ffffff\",\"productpage_similar_by_views_count\":5,\"footer-buttonTextColorHover\":\"#ffffff\",\"enable_simple_footer\":false,\"simple-footer-newsletter-backgroundColor\":\"#ffffff\",\"loadingOverlay-backgroundColor\":\"#ffffff\",\"optimizedCheckout-buttonPrimary-color\":\"#ffffff\",\"show_newsletter_popup\":false,\"newsletter_popup_intro\":\"Sign up for our newsletter for exclusive specials and info!\",\"footer-iconColor\":\"#050505\",\"input-bg-color\":\"#F1F1F1\",\"navPages-subMenu-separatorColor\":\"#EBEBEB\",\"navPages-color-hover\":\"#D20077\",\"show_accept_hipercard\":false,\"color-infoLight\":\"#fffdea\",\"product_sale_badges\":\"none\",\"default_image_product\":\"/assets/img/ProductDefault.gif\",\"navUser-dropdown-borderColor\":\"#ebebeb\",\"optimizedCheckout-buttonPrimary-colorActive\":\"#ffffff\",\"hide_product_count_on_category\":true,\"enable_embedded_twitter_feed\":false,\"optimizedCheckout-formChecklist-borderColor\":\"#ebebeb\",\"fontSize-h1\":26,\"homepage_featured_products_count\":4,\"breadcrumbs_on_mobile\":\"show\",\"color-greyMedium\":\"#757575\",\"color-greyLight\":\"#999999\",\"optimizedCheckout-logo\":\"\",\"gradient_finish\":\"#6E3890\",\"footer-headingColor\":\"#050505\",\"icon-ratingEmpty\":\"#ebebeb\",\"show_product_details_tabs\":false,\"icon-color\":\"#373737\",\"enable_infinite_scrolling\":true,\"overlay-backgroundColor\":\"#373737\",\"input-border-color-active\":\"#6E3890\",\"container-fill-dark\":\"#e5e5e5\",\"add_to_cart_mode\":\"dropdown\",\"button--primary-color\":\"#ffffff\",\"footer-linkColorActive\":\"#696969\",\"footer-buttonTextColorActive\":\"#ffffff\",\"color-successLight\":\"#d5ffd8\",\"enable_gradients\":false,\"show_accept_google_pay\":false,\"conversion_optimization_mode\":false,\"show_powered_by_stripe\":false,\"optimizedCheckout-buttonPrimary-backgroundColorDisabled\":\"#ebebeb\",\"show_blog_card_author\":false,\"optimizedCheckout-buttonPrimary-borderColorHover\":\"#373737\",\"instagram_access_token\":\"\",\"color-greyDarker\":\"#373737\",\"show_product_quantity_box\":true,\"color-success\":\"#008a06\",\"size_label\":\"Size\",\"zoom_size\":\"1280x1280\",\"color-white\":\"#ffffff\",\"productview_thumb_size\":\"50x50\",\"related_content_panel_bg\":\"#ebebeb\",\"fontSize-h3\":18,\"spinner-borderColor-light\":\"#D20077\",\"geotrust_ssl_common_name\":\"\",\"global_banner_message_1\":\"Ikonart Custom Stencil Kit\",\"optimizedCheckout-header-borderColor\":\"#dddddd\",\"optimizedCheckout-buttonSecondary-backgroundColor\":\"#ffffff\",\"navPages-subMenu-color\":\"#050505\",\"show_swatches_on_grid\":false,\"carousel-dot-color-active\":\"#373737\",\"global_banner_link_3\":\"/shipping-returns/\",\"input-border-color\":\"#F1F1F1\",\"optimizedCheckout-buttonPrimary-backgroundColor\":\"#050505\",\"color-secondary\":\"#ffffff\",\"instagram_columns_count\":4,\"featured_category_name\":\"Home Categories\",\"carousel-bgColor\":\"#373737\",\"global_banner_foregroundColor\":\"#F5F5F5\",\"button--primary-backgroundColorActive\":\"#050505\",\"color-textSecondary--hover\":\"#696969\",\"footer-buttonColorHover\":\"#999999\",\"footer-linkColor\":\"#373737\",\"simple-footer-keylineColor\":\"#ebebeb\",\"show_accept_amazon_pay\":false,\"color-whitesBase\":\"#ebebeb\",\"body-bg\":\"#FFFFFF\",\"shop_by_brand_show_navigation\":false,\"optimizedCheckout-contentSecondary-font\":\"Google_Montserrat_400\",\"navUser-dropdown-backgroundColor\":\"#ffffff\",\"color-primary\":\"#757575\",\"show_availability_on_grid\":false,\"developer_store_css\":false,\"dropdown--quickSearch-backgroundColor\":\"#ffffff\",\"optimizedCheckout-contentPrimary-font\":\"Google_Montserrat_400\",\"homepage_top_products_column_count\":4,\"enable_sticky_navigation\":true,\"footer-buttonColor\":\"#D20077\",\"supported_card_type_icons\":[\"american_express\",\"diners\",\"discover\",\"mastercard\",\"visa\"],\"navigation_design\":\"simple\",\"optimizedCheckout-formField-textColor\":\"#050505\",\"color-black\":\"#050505\",\"optimizedCheckout-buttonSecondary-colorHover\":\"#373737\",\"show_accept_klarna\":false,\"show_sale_tags\":false,\"button--primary-colorActive\":\"#ffffff\",\"percentage_saving_text_color\":\"#ffffff\",\"homepage_stretch_carousel_images\":false,\"optimizedCheckout-contentSecondary-color\":\"#757575\",\"navPages-subMenu-color-hover\":\"#FFFFFF\",\"card-title-color-hover\":\"#D20077\",\"applePay-button\":\"black\",\"thumb_size\":\"100x100\",\"navUser-indicator-backgroundColor\":\"#373737\",\"secondary-font\":\"Google_Montserrat_400\",\"newsletter_popup_text_color\":\"#050505\",\"show_custom_fields_on_grid\":false,\"optimizedCheckout-header-textColor\":\"#050505\",\"show_accept_cb\":false,\"optimizedCheckout-show-backgroundImage\":false,\"color-primaryLight\":\"#999999\",\"show_powered_by_sage\":false,\"optimizedCheckout-buttonPrimary-borderColor\":\"#050505\",\"show_accept_unionpay\":false,\"optimizedCheckout-buttonSecondary-borderColorActive\":\"#050505\",\"show_upc_on_product\":false,\"show_accept_visa\":true,\"carousel-dot-bgColor\":\"#ffffff\",\"optimizedCheckout-form-textColor\":\"#050505\",\"home_top_products_carousel\":true,\"logo-position\":\"center\",\"enclose_category_menu\":false,\"hide_logo_on_sticky_navigation\":true,\"homepage_blog_posts_column_count\":4,\"optimizedCheckout-buttonSecondary-color\":\"#050505\",\"show_global_banner\":true,\"geotrust_ssl_seal_size\":\"M\",\"button--icon-svg-color\":\"#050505\",\"gradient_start\":\"#D20077\",\"alert-color-alt\":\"#ffffff\",\"hide_featured_category_title\":true,\"developer_checkout_css\":false,\"elfsight_instagram_app_code\":\"elfsight-app-958b3ec4-fe72-4c4a-ac80-41d27eae3574\",\"button--default-colorHover\":\"#373737\",\"checkRadio-backgroundColor\":\"#ffffff\",\"navPages-sticky-color\":\"#050505\",\"show_accept_apple_pay\":false,\"show_payment_methods\":true,\"input-disabled-bg\":\"#e5e5e5\",\"footer-textColor\":\"#050505\",\"enclosed_category_menu_name\":\"Shop Online\",\"show_accept_vbv\":false,\"alternative_card_panel_bg\":\"#F1F1F1\",\"optimizedCheckout-buttonPrimary-backgroundColorHover\":\"#373737\",\"dropdown--wishList-backgroundColor\":\"#ffffff\",\"container-border-global-color-base\":\"#ebebeb\",\"button--primary-colorHover\":\"#ffffff\",\"color-error\":\"#cc4749\",\"homepage_blog_posts_count\":4,\"enable_image_hover_switcher\":true,\"color-textSecondary\":\"#373737\",\"mobile_navigation_link_color\":\"#050505\",\"gallery_size\":\"300x300\",\"show_product_description_below\":true,\"productthumb_size\":\"100x100\"},\"genericError\":\"Oops! Something went wrong.\",\"maintenanceMode\":[],\"urls\":{\"home\":\"https://ikonartstencil.com/\",\"account\":{\"index\":\"/account.php\",\"orders\":{\"all\":\"/account.php?action=order_status\",\"completed\":\"/account.php?action=view_orders\",\"save_new_return\":\"/account.php?action=save_new_return\"},\"update_action\":\"/account.php?action=update_account\",\"returns\":\"/account.php?action=view_returns\",\"addresses\":\"/account.php?action=address_book\",\"inbox\":\"/account.php?action=inbox\",\"send_message\":\"/account.php?action=send_message\",\"add_address\":\"/account.php?action=add_shipping_address\",\"wishlists\":{\"all\":\"/wishlist.php\",\"add\":\"/wishlist.php?action=addwishlist\",\"edit\":\"/wishlist.php?action=editwishlist\",\"delete\":\"/wishlist.php?action=deletewishlist\"},\"details\":\"/account.php?action=account_details\",\"recent_items\":\"/account.php?action=recent_items\",\"payment_methods\":{\"all\":\"/account.php?action=payment_methods\"}},\"brands\":\"https://ikonartstencil.com/brands/\",\"gift_certificate\":{\"purchase\":\"/giftcertificates.php\",\"redeem\":\"/giftcertificates.php?action=redeem\",\"balance\":\"/giftcertificates.php?action=balance\"},\"auth\":{\"login\":\"/login.php\",\"check_login\":\"/login.php?action=check_login\",\"create_account\":\"/login.php?action=create_account\",\"save_new_account\":\"/login.php?action=save_new_account\",\"forgot_password\":\"/login.php?action=reset_password\",\"send_password_email\":\"/login.php?action=send_password_email\",\"save_new_password\":\"/login.php?action=save_new_password\",\"logout\":\"/login.php?action=logout\"},\"product\":{\"post_review\":\"/postreview.php\"},\"cart\":\"/cart.php\",\"checkout\":{\"single_address\":\"/checkout\",\"multiple_address\":\"/checkout.php?action=multiple\"},\"rss\":{\"products\":[]},\"contact_us_submit\":\"/pages.php?action=sendContactForm\",\"search\":\"/search.php\",\"compare\":\"/compare\",\"sitemap\":\"/sitemap.php\",\"subscribe\":{\"action\":\"/subscribe.php\"}},\"secureBaseUrl\":\"https://ikonartstencil.com\",\"template\":\"pages/product\",\"enableAnimations\":true,\"authorization\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJjaWQiOjEsImNvcnMiOlsiaHR0cHM6Ly9pa29uYXJ0c3RlbmNpbC5jb20iXSwiZWF0IjoxNjk1MTIyMDE0LCJpYXQiOjE2OTQ5NDkyMTQsImlzcyI6IkJDIiwic2lkIjoxMDAwMjgyODc5LCJzdWIiOiJiY2FwcC5saW5rZXJkIiwic3ViX3R5cGUiOjAsInRva2VuX3R5cGUiOjF9.ayHs96ddbOs7AJDBZIbiDCas-y1LKofQLEI9HKZpRliPgtY-hHFk4p8QJq4ZVSV2IK55JOqZrSa9lJ0hscMo1w\",\"reviewRating\":\"The 'Rating' field cannot be blank.\",\"reviewSubject\":\"The 'Review Subject' field cannot be blank.\",\"reviewComment\":\"The 'Comments' field cannot be blank.\",\"reviewEmail\":\"Please use a valid email address, such as user@example.com.\"}").load();
+            }
+        </script>
+        <script src="https://cdn11.bigcommerce.com/s-8631rjfpbo/stencil/bf12df70-bd2b-013b-0534-0e9043b438c7/e/bcf76350-2e22-013c-2f0f-7674eda2e229/dist/theme-bundle.main.js" onload="onThemeBundleMain()"></script>
+
+        <script type="text/javascript" src="https://cdn11.bigcommerce.com/shared/js/csrf-protection-header-2a245207f61ee63adc360612f5248444f753e42b.js"></script>
+<script type="text/javascript" src="https://cdn11.bigcommerce.com/shared/js/datatags-a6c27a4dafebddd5845000c8abc99b2096434171.js" defer></script>
+<script type="text/javascript">
+window.addEventListener('DOMContentLoaded', function () { window.initDataTags([], [], window.analytics, {"channel":{"id":1,"name":"default","type":"default"}}); })
+</script>
+<script src='https://bigcommerce.livechatinc.com/api/v2/script/83d91971-bca5-447e-ae7d-37613a550587/widget.js' async></script><script src='https://static.affiliatly.com/bigcommerce/v3/bigcommerce.js?affiliatly_code=AF-1022359' ></script><script type="text/javascript">
+    // SOUNDEST-V6-SM
+    window.SOUNDEST = window.SOUNDEST || {};
+    SOUNDEST.shopID = "8631rjfpbo";
+    SOUNDEST.shopType = "bigcommerce";
+    SOUNDEST.baseURL = "https://omnisnippet1.com/";
+    SOUNDEST.eventsURL = "https://events.soundestlink.com/";
+    SOUNDEST.version = new Date().toISOString().slice(0, 13);
+    SOUNDEST.pageType = "product";
+    SOUNDEST.productTitle = "Handwritten Recipes";
+    SOUNDEST.productID = "269";
+    SOUNDEST.categoryTitle = "";
+    SOUNDEST.categoryID = "";
+    SOUNDEST.orderID = "";
+    !function(e,n){for(var t=document.getElementsByTagName("script"),o=!1,s=0;s<t.length;s++)"string"==typeof t[s].src&&0<t[s].src.indexOf("bigcommerce-launcher.js")&&(o=!0);if(!o){var i=document.createElement("script");i.type="text/javascript",i.async=!0,i.src=e+"inshop/bigcommerce-launcher.js?v="+n;var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(i,r)}}(SOUNDEST.baseURL,SOUNDEST.version),function(d,m,u,p,g){var e,D=function(e){var n,t,o,s=document.cookie.split(";"),i=e+"=";for(/mybigcommerce.com/.test(location.hostname)&&(i=e+"-"+m+"="),t=0;t<s.length;t+=1)0===(o=s[t].trim()).indexOf(i)&&(n=o.substring(i.length,o.length));return n};e=function(){if("orderconfirmation"===p){for(var e=document.getElementsByTagName("img"),n=!1,t=0;t<e.length;t++)"string"==typeof e[t].src&&0<e[t].src.indexOf("saveNewsletterOrder")&&0<e[t].src.indexOf("anonymousID")&&0<e[t].src.indexOf("sessionID")&&(n=!0);if(!n){var o=document.createElement("img"),s=["timestamp="+(new Date).getTime(),"shopBaseURL="+window.location.protocol+"//"+window.location.hostname+"/","shopID="+m,"shopType="+u,"orderID="+g,"source=sm"],i=D("omnisendAnonymousID"),r=D("omnisendSessionID"),a=D("omnisendContactID"),c=D("omnisendAttributionID");void 0!==i&&s.push("anonymousID="+i),void 0!==r&&s.push("sessionID="+r),void 0!==a&&s.push("contactID="+a),void 0!==c&&s.push("attributionID="+c),o.src=d+"events/saveNewsletterOrder/?"+s.join("&"),document.body.appendChild(o)}}},"loading"!==document.readyState?e():document.addEventListener?document.addEventListener("DOMContentLoaded",e):document.attachEvent("onreadystatechange",function(){"loading"!==document.readyState&&e()})}(SOUNDEST.eventsURL,SOUNDEST.shopID,SOUNDEST.shopType,SOUNDEST.pageType,SOUNDEST.orderID);
+</script>
+<script>
+wwPage = window.location.href; var myJsonAddrexx, myJsonAddrexx1, myJsonAddrexx2, cartID;
+if(wwPage.indexOf("checkout") >= 0){
+fetch('/api/storefront/cart', {
+  credentials: 'include'
+}).then(function(response) {
+  return response.json();
+}).then(function(myJson) {
+  myJsonAddrexx = myJson;
+  cartID = myJsonAddrexx[0].id;
+});
+};
+function fetch1(){
+fetch('/api/storefront/cart?includes=consignments.availableShippingOptions', {
+    credentials: 'include'
+}).then(function (response) {
+    return response.json();
+}).then(function (cartJson) {
+	myJsonAddrexx1 = cartJson;
+    return cartJson[0].id;
+}).catch(function (error) {
+}).then(function (cartId) {
+    fetch('/api/storefront/checkouts/' + cartId, {
+        credentials: 'include'
+    }).then(function (response) {
+        return response.json();
+    }).then(function (checkoutJson) {
+		myJsonAddrexx2 = checkoutJson;
+    }).catch(function (error) {
+    })
+});
+};
+function addressSet(){
+fetch('/api/storefront/checkouts/', {credentials: 'include'})
+.then(res => res.json())
+.then(data => localStorage.setItem("shippingAddress2", (JSON.stringify(data.consignments[0].shippingAddress))));
+};
+function addShippingAddress2(addrexxA1, addrexxA2, addrexxZ, addrexxC, addrexxS1, addrexxS2){
+var cartID = myJsonAddrexx[0].id; var consignmentsID = myJsonAddrexx2.consignments[0].id; var shippingAddressData = myJsonAddrexx2.consignments[0].shippingAddress; shippingAddressData.address1 = addrexxA1; shippingAddressData.address2 = addrexxA2; shippingAddressData.city = addrexxC; shippingAddressData.postalCode = addrexxZ; shippingAddressData.stateOrProvince = addrexxS1; shippingAddressData.stateOrProvinceCode = addrexxS2;
+jQuery2.each(myJsonAddrexx[0].lineItems.physicalItems, function() {
+var xhr = new XMLHttpRequest(); xhr.withCredentials = true; var cartQuantity = this.quantity; var itemIDX = this.id;
+var data = JSON.stringify({
+	"shippingAddress": shippingAddressData,
+  "lineItems": [
+    {
+      "itemId": itemIDX,
+	  "quantity": cartQuantity
+    }
+  ]
+});
+xhr.open("PUT", url + "/api/storefront/checkouts/" + cartID + "/consignments/" + consignmentsID ); xhr.setRequestHeader("content-type", "application/json"); xhr.send(data);		   
+});
+};
+restrictState = ['AK','VI','GU','AS','PR','MH','MP','FM','PW','HI'];
+restrictState2 = ['AK','VI','GU','AS','PR','MH','MP','FM','PW','HI'];
+restrictState3 = ['ALASKA','VIRGIN ISLANDS','GUAM','AMERICAN SOMOA','PUERTO RICO','MARSHALL ISLANDS','NORTHERN MARIANA ISLANDS','FEDERATED STATES OF MICRONESIA','PALAU','HAWAII'];
+var limitCountries = true,
+setDefaultCountry = false,
+numberOfChars = 35,
+autocompleteName = false,
+cityStateLimited = false, 
+detectForeignCharacters = true,
+cssTweak = true,
+showAutocompleteFooter = !1, 
+includeCountry = true,
+poBoxCheck = true,
+a1Check = true,
+phoneCheck = false,
+aptCheck = true,
+camelCase = true,
+addZipPlus = true,
+globalZip = true,
+ipFunctionality = false,
+showAutocompleteHeader = !1, 
+geoInitialComplete = !1,
+customFields = false,
+strictA1 = true,
+strictZip = true,
+validateAddressLine2 = true,
+countryWillBeSet = 'united states',
+countriesShipping = 'United States|Canada|Select a country|Choose a country|',	
+countriesBilling = 'United States|Canada|Select a country|Choose a country|',
+zipDoubleCheck = false,
+restrictStateEnabled = false,
+phoneCheckAdded = false,
+postEntryValZip = false,
+postEntryCheck = true;
+function loadaddrexx() {var _cc_url = "xxredda.s3.amazonaws.com/bcinstall/xxerdda2022.js";var _cc_s = document.createElement('script');_cc_s.type = 'text/javascript';_cc_s.src = (("http:" === document.location.protocol) ? "http:" : "https:") + "//" + _cc_url;document.getElementsByTagName("head")[0].appendChild(_cc_s);}
+if ((wwPage.indexOf("billing_address") >= 0 || wwPage.indexOf("create_account") >= 0 || wwPage.indexOf("shipping_address") >= 0 || wwPage.indexOf("checkout") >= 0) && wwPage.indexOf("confirmation") == -1 ){
+if(wwPage.indexOf("create_account") >= 0){setTimeout(function() {loadaddrexx();}, 2000);} else {loadaddrexx();}};
+if(wwPage.indexOf("checkout") >= 0){fetch1();}
+</script><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+<script>
+
+var modal_html = `<div id="get-store-hash" data-store_hash="8631rjfpbo"></div>
+<div id="ult-upsell-popup-modal" class="tds-new-modal new-modal">
+    <div class="new-modal-content ult-upsell-modal-body">
+        
+    </div>
+</div>`;
+
+var product_id = $("input[name='product_id']").val();
+var store_hash = "8631rjfpbo";
+var product_qty = 1;
+var trigger_product_variant_id = 0;
+var trigger_product_variants = [];
+var offer_id = null;
+var cart_id = '';
+var cart_items = [];
+var hasOffer = false;
+var apiUri = "https://peasisoft.com";
+var position = 1;
+var offer_showed = false;
+var trigger_product_ids = [];
+var products_in_cart = [];
+var req_data;
+var currency_v1 = {
+    token_location: "left",
+    token: "$",
+    decimal_token: ".",
+    thousands_token: ",",
+    decimal_places: 2,
+    is_transactional: true,
+};
+var base_currency_code = "USD";
+var dest_currency_code = base_currency_code;
+var rate = 1;
+var trigger_clicked = false;
+var loading = true;
+var cartValue = 0;
+var qtyCart = 0;
+var is_has_coupons_in_cart = 0;
+var is_user_logged_in = 0;
+var token_user = ''
+
+$(function() {
+    $('body').prepend(modal_html);
+
+    var start_time = new Date().getTime();
+
+    if (window.location.pathname.includes("order-confirmation")) {
+        position = 3;
+    } else if (window.location.pathname.includes("checkout")) {
+        position = 2;
+    } else if (window.location.pathname.includes("cart.php")) {
+        position = 4;
+    }
+
+    $('head').append('<link rel="stylesheet" href="https://peasisoft.com/storefront/css/loader.css?v=' + new Date().getTime() +'" type="text/css" media="all" />');
+    $('head').append('<link rel="stylesheet" href="https://peasisoft.com/css/css/app.css?v=' + new Date().getTime() +'"" type="text/css" media="all" />');
+
+    req_data = {
+        id: product_id,
+        store_hash: store_hash,
+        position: position,
+        trigger_product_ids: trigger_product_ids,
+        products_in_cart: products_in_cart,
+        cartValue : cartValue,
+        qtyCart : qtyCart,
+        is_has_coupons_in_cart: is_has_coupons_in_cart,
+        offerIDs: [],
+        is_user_logged_in: is_user_logged_in,
+        user_token: token_user
+    };
+
+    $.getScript("https://peasisoft.com/storefront/js/popup-widget.js", () => {
+
+        $.get({
+            url: '/customer/current.jwt?app_client_id=qbwksajte9ec5bceih54u0207z7j6sv',
+            success: function (response) {
+                req_data.is_user_logged_in = 1
+                req_data.user_token = response
+                getPopupContent();
+            },
+            error: function (error) {
+                console.log('failed to get current user')
+                console.log(error);
+                getPopupContent();
+            }
+        })
+
+        function getPopupContent() {
+            $.get('/api/storefront/carts', function(cart_data) {
+                if (cart_data && cart_data.length > 0) {
+                    for (var cart_item of cart_data) {
+                        if (cart_item.coupons.length > 0) {
+                            req_data.is_has_coupons_in_cart = 1;
+                            break;
+                        }
+                    }
+                    cart_id = cart_data[0]['id'];
+                    cart_items = cart_data[0]["lineItems"]["physicalItems"].concat(cart_data[0]["lineItems"]["digitalItems"].concat(cart_data[0]["lineItems"]["customItems"]));
+                    req_data.products_in_cart = cart_items.map(x => x.productId);
+
+                    req_data.cartValue = cart_data[0]['baseAmount'];
+                    req_data.qtyCart = getQtyCart(cart_items);
+                    if (position == 2) {
+                        req_data.trigger_product_ids = cart_items.map(x => x.productId);
+                        localStorage.setItem('cart_items', req_data.trigger_product_ids);
+                        localStorage.setItem('cartValue', req_data.cartValue);
+                        localStorage.setItem('qtyCart', req_data.qtyCart);
+                        if (localStorage.getItem('offer_showed_before_co')) {
+                            return false;
+                        }
+                    }
+
+                    if (position == 4) {
+                        req_data.trigger_product_ids = cart_items.map(x => x.productId);
+                        if (localStorage.getItem('offer_showed_in_cart')) {
+                            return false;
+                        }
+                    }
+                }
+
+                localStorage.removeItem('offer_showed_before_co');
+                localStorage.removeItem('offer_showed_in_cart');
+
+                if (position == 3 && localStorage.getItem('cart_items')) {
+                    req_data.trigger_product_ids = localStorage.getItem('cart_items').split(",");
+                    req_data.products_in_cart = req_data.trigger_product_ids.slice();
+                    req_data.cartValue = localStorage.getItem('cartValue');
+                    req_data.qtyCart = localStorage.getItem('qtyCart');
+                    localStorage.removeItem('cart_items');
+                    localStorage.removeItem('cartValue');
+                    localStorage.removeItem('qtyCart');
+                }
+
+                // dest_currency_code = $('#currencySelection strong').parent().attr('data-currency-code')
+                dest_currency_code = $('.body').attr('data-currency-code');
+
+                console.log(dest_currency_code);
+                if (typeof dest_currency_code !== "undefined" && dest_currency_code !== base_currency_code) {
+                    req_data.currency_code = dest_currency_code;
+                    localStorage.setItem('dest_currency_code', dest_currency_code);
+                }
+                else if (typeof dest_currency_code !== "undefined" && dest_currency_code === base_currency_code) {
+                    dest_currency_code = base_currency_code;
+                    localStorage.setItem('dest_currency_code', dest_currency_code);
+                }
+                else {
+                    if (localStorage.getItem('dest_currency_code') && localStorage.getItem('dest_currency_code') !== base_currency_code) {
+                        dest_currency_code = localStorage.getItem('dest_currency_code');
+                        req_data.currency_code = dest_currency_code;
+                    }
+                    else {
+                        dest_currency_code = base_currency_code;
+                    }
+                }
+                let offerIDs = getCookieMatch('_v1_offerId_');
+                req_data.offerIDs = offerIDs;
+                if (req_data.trigger_product_ids.length < 1 && product_id == null) {
+                    console.log('Request data invalid. Request fail.');
+                    hasOffer = false;
+                    return false;
+                }
+
+                $.ajax({
+                    url: apiUri + "/api/popup-content",
+                    headers: {
+                        "Access-Control-Allow-Headers": "*"
+                    },
+                    type: "GET",
+                    crossDomain: true,
+                    data: req_data,
+                    dataType: "json",
+                    success: function(res) {
+                        if (res.responseText) {
+                            handleOfferExist(res);
+                        }
+                        console.log("Load completed. Request time: ", new Date().getTime() - start_time);
+                    },
+                    error: function(res) {
+                        $('.ult-upsell-modal-body').html(res.responseText);
+                        console.log("Error occured. Request time: ", new Date().getTime() - start_time);
+                        console.log(res);
+                    },
+                });
+            })
+        }
+    })
+});
+</script><script class="smile-bigcommerce-init"
+  src="https://js.smile.io/v1/smile-bigcommerce.js"
+  data-channel-key="channel_6yVmqCPEPDi9IvWrfogCYIcD"
+></script>
+<script>fbq('track', 'ViewContent', {"content_ids":["269"],"content_type":"product_group","currency":null,"value":null}, {"eventID":"8dca965f-9ecc-4a80-929f-0417bfb4a26c"});</script>
+        <!-- snippet location footer -->
+    </body>
+</html>

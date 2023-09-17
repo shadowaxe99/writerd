@@ -1,4 +1,4 @@
-```python
+
 import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.neural_network import MLPClassifier
@@ -33,4 +33,3 @@ class HandwritingModel:
         # Generate handwriting style
         output = self.model.predict(input_data)
         return output
-```

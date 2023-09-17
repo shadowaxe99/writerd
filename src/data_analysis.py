@@ -1,36 +1,21 @@
-import numpy as np
-import pandas as pd
-from sklearn.decomposition import PCA
-from src.utils import load_svg, extract_features
-from src.constants import SVG_CHARACTERS_PATH
+import xml.etree.ElementTree as ET
 
-def analyze_svg(svg_data):
-    """
-    Analyze the SVG data to identify key features and elements that define a handwriting style.
-    """
-    # Extract features from the SVG data
-    features = extract_features(svg_data)
 
-    # Perform Principal Component Analysis to reduce dimensionality
-    pca = PCA(n_components=2)
-    pca_result = pca.fit_transform(features)
+class DataAnalysis:
+    def __init__(self):
+        pass
 
-    return pca_result
+    def identify_features(self, svg_file):
+        tree = ET.parse(svg_file)
+        root = tree.getroot()
 
-def analyze_handwriting_styles():
-    """
-    Analyze the handwriting styles in the SVG characters.
-    """
-    # Load the SVG characters
-    svg_characters = load_svg(SVG_CHARACTERS_PATH)
+        # Identify key features and elements in the SVGs that define a handwriting style
+        # Example: Extract stroke color, stroke width, etc.
+        features = {}
+        for element in root.iter():
+            if 'stroke' in element.attrib:
+                features['stroke_color'] = element.attrib['stroke']
+            if 'stroke-width' in element.attrib:
+                features['stroke_width'] = element.attrib['stroke-width']
 
-    # Analyze each SVG character
-    analysis_results = {}
-    for character, svg_data in svg_characters.items():
-        analysis_results[character] = analyze_svg(svg_data)
-
-    return analysis_results
-
-if __name__ == "__main__":
-    analysis_results = analyze_handwriting_styles()
-    print(analysis_results)
+        return features

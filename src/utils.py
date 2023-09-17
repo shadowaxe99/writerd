@@ -1,34 +1,50 @@
-```python
+import os
 import numpy as np
-from sklearn.preprocessing import MinMaxScaler
+from xml.dom import minidom
+from src.constants import SVG_CHARACTERS_PATH
 
-def normalize_data(data):
-    """
-    Function to normalize data using MinMaxScaler from sklearn
-    """
-    scaler = MinMaxScaler()
-    normalized_data = scaler.fit_transform(data)
-    return normalized_data
 
-def split_data(data, test_size=0.2):
+def load_data():
     """
-    Function to split data into training and testing sets
+    Load SVG data from the SVG_CHARACTERS_PATH directory.
     """
-    data_length = len(data)
-    split_index = int(data_length * (1 - test_size))
-    train_data = data[:split_index]
-    test_data = data[split_index:]
-    return train_data, test_data
+    data = []
+    labels = []
 
-def convert_to_numpy(data):
-    """
-    Function to convert data to numpy array
-    """
-    return np.array(data)
+    svg_files = os.listdir(SVG_CHARACTERS_PATH)
 
-def reshape_data(data, new_shape):
+    for file in svg_files:
+        file_path = os.path.join(SVG_CHARACTERS_PATH, file)
+        svg_doc = minidom.parse(file_path)
+        paths = svg_doc.getElementsByTagName('path')
+        path_data = [path.getAttribute('d') for path in paths]
+        data.append(path_data)
+        labels.append(file)
+
+    return np.array(data), np.array(labels)
+
+
+def preprocess_data(data):
     """
-    Function to reshape data
+    Preprocess the SVG data.
     """
-    return data.reshape(new_shape)
-```
+    # Perform preprocessing steps
+    preprocessed_data = data
+
+    return preprocessed_data
+
+
+def get_svg_paths(file_path):
+    """
+    Extract all the path elements from an SVG file.
+    """
+    svg_doc = minidom.parse(file_path)
+    paths = svg_doc.getElementsByTagName('path')
+    return [path.getAttribute('d') for path in paths]
+
+
+def load_svg(file_path):
+    """
+    Load an SVG file and return the document object.
+    """
+    return minidom.parse(file_path)
